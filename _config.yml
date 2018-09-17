@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter Susana_Science
+  username               : &twitter Rocha_Lab
 facebook:
   username               :
   app_id                 :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Susana_Science"
+  twitter          : "Rocha_Lab"
   vine             :
   weibo            :
   xing             :
