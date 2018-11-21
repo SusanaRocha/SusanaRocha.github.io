@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Susana @ Science"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Susana Rocha"
 description              : &description "enthusiastic researcher"
@@ -186,6 +186,9 @@ collections:
   techniques:
     output: true
     permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
   maintech:
     output: true
     permalink: /:collection/:path/
@@ -249,14 +252,17 @@ defaults:
       author_profile: false
       share: false
       comment: true
-  # _talks
+
+  # _outreach
   - scope:
       path: ""
-      type: talks
+      type: outreach
     values:
       layout: talk
-      author_profile: true
+      author_profile: false
       share: false
+      comment: true
+      
 
   # _maintech
   - scope:
