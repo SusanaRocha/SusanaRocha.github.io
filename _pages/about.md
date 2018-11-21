@@ -10,7 +10,7 @@ redirect_from:
 <h2> Welcome! </h2>
 <p align= "justify">
 This website contains information about research ongoing in the NanoCenter, KULeuven.
-For more details about what we to, check our <a href="{{site.github.url}}/projects">Projects</a>.
+For more details check our <a href="{{site.github.url}}/projects">Projects</a>.
 
 If you are not a scentist but are still interested in what we do, check out the <a href="{{site.github.url}}/outreach">Science Outreach</a> section.
 <br>
