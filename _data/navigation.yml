@@ -69,3 +69,11 @@ Tech:
         url: /techniques/RICS/
       - title: "FRET: Föster Energy Tranfer"
         url: /techniques/FRET/
+
+Outreach:
+  - title: Science Outreach
+    children:
+      - title: "The matrix supporting life"
+        url: /mainoutreach/cellmech/
+      - title: "Better ways to give medicines"
+        url: /mainoutreach/drugdelivery/

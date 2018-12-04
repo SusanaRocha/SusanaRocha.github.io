@@ -192,6 +192,9 @@ collections:
   maintech:
     output: true
     permalink: /:collection/:path/
+  mainoutreach:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -262,12 +265,21 @@ defaults:
       author_profile: false
       share: false
       comment: true
-      
 
   # _maintech
   - scope:
       path: ""
       type: maintech
+    values:
+      layout: talk
+      author_profile: false
+      share: false
+      comment: true
+
+  # _mainoutreach
+  - scope:
+      path: ""
+      type: mainoutreach
     values:
       layout: talk
       author_profile: false
