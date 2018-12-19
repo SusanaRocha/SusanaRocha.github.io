@@ -38,20 +38,21 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-        {% elsif post.collection == 'publications' %}
-          Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
-          {% if post.paperurl %}
-          <cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite>
-          {% endif %}
-          {% if post.tagline %}
-          <br /><i>{{ post.tagline }}</i>
-          {% endif %}
+    {% if post.authors %}
+    <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.authors }}</i></span><br>
+    {% endif %}
 
-        {% elsif post.date and post.collection != 'projects' %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}
+    {% if post.collection == 'publications' %}
+    <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</b></span>
+    {% endif %}
+
+    {% if post.paperurl %}
+    <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite></b></span>
+    {% endif %}
+
+    {% if post.tagline %}
+    <br /><i>{{ post.tagline }}</i>
+    {% endif %}
 
 
   </article>
