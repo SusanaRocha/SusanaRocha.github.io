@@ -1,5 +1,5 @@
 ---
-title: "Role of glutamine synthetase in angiogenesis beyond glutamine synthesis: Article online!"
+title: "Role of glutamine synthetase in angiogenesis beyond glutamine synthesis: Article online"
 date: 2018-09-06
 collection: news
 ---

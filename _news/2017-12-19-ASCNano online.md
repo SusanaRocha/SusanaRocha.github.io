@@ -1,5 +1,5 @@
 ---
-title: "Correlative AFM / Fluorescence: Article online!"
+title: "Correlative AFM / Fluorescence: Article online"
 date: 2017-12-21
 collection: news
 ---

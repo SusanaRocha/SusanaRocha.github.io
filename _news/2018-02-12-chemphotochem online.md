@@ -1,5 +1,5 @@
 ---
-title: "Conversion of Alexa Fluor 647: Article online!"
+title: "Conversion of Alexa Fluor 647: Article online"
 date: 2018-02-12
 collection: news
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mapping Interactions at the Nanoscale: Article online!"
+title: "Mapping Interactions at the Nanoscale: Article online"
 date: 2018-09-09
 collection: news
 ---
