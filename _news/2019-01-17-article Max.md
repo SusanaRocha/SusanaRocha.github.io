@@ -1,5 +1,5 @@
 ---
-title: "First article for Max!"
+title: "Synthetic extracellular matrices regulate cellular organization: First article of Max!"
 date: 2019-01-17
 collection: news
 ---
