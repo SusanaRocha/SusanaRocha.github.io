@@ -3,7 +3,7 @@ title: " Highly Efficient Multifunctional Drug Delivery Systems: Article Online!
 date: 2019-02-25
 collection: news
 ---
-<img src='/images/article_bea.png' style='width: 40%' align='right'>
+<img src='/images/article_bea.png' style='width: 30%' align='right'>
 A nice article showing how simple chemistry can improve cancer specificity and efficiency of drug delivery systems. <br>
 Congratulations **Bea**!
 <br>
