@@ -63,7 +63,9 @@
   border-radius: $border-radius;
   overflow: hidden;
   img {
+    height: 100px;
     width: 100%;
+    resize:both;
   }
 }
 

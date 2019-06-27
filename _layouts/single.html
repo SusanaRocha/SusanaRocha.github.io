@@ -38,12 +38,25 @@ layout: default
           <i>{{ page.authors }}</i>
         {% endif %}
 
-        {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <br>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+        {% if page.collection == 'team' %}
+        <hr-bold>
+        <br>
+        <div class='pull-right' style='width: 25%; height: 210px; padding: 5px; object-fit: contain;'>
+         <img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
+        </div>
+
+          <p> <b>{{ page.subject }}</b>
+          <br> Started on {{ page.date | default: "1900-01-01" | date: "%B, %Y" }}
+          {% if page.prom %}
+             <br><i>{{ page.prom }}</i>
+          {% endif %}
+          {% if page.email %}
+          <br><br><a href="mailto:{{ page.email }}" style="color:gray; text-decoration: none">email {{ page.title }}</a>
+            {% endif %}
+          </p>
+
+
+
         {% endif %}
 
 

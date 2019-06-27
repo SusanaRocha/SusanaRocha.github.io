@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Susana Rocha"
+name                     : &name "Susana Rocha's Lab"
 description              : &description "enthusiastic researcher"
 url                      : https://susanarocha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -69,18 +69,13 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Susana Rocha"
+  name             : "Susana Rocha's Lab"
   avatar           : "profile.png"
-  bio              : "Researcher"
+  bio              : "Imaging the forces driving cells"
   location         : "KU Leuven, Belgium"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q"
@@ -183,6 +178,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  team:
+    output: true
+    permalink: /:collection/:path/
   news:
     output: true
     permalink: /:collection/:path/
@@ -266,6 +264,16 @@ defaults:
     values:
       layout: talk
       author_profile: false
+      share: false
+      comment: true
+
+  # _team
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: single
+      author_profile: true
       share: false
       comment: true
 

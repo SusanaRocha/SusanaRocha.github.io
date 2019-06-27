@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find the complete publication list on <u><a href="https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q">my Google Scholar profile</a>.</u>
+You can find the complete publication list on <a href="https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q">
+<span style="color:gray">my Google Scholar profile</span></a>.
 
 
 {% include base_path %}

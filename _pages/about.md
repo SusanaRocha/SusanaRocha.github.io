@@ -17,7 +17,7 @@ If you are not a scentist but are still interested in what we do, check out the 
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588); text-align:center; vertical-align: middle border-left: 500px">
 <h3><br><a href="{{site.github.url}}/news">Latest news:</a></h3>
-{% assign sorted = (site.news | sort: 'date') | reverse %}
+{% assign sorted = site.news | sort: 'date' | reverse %}
 {% for item in sorted limit:5%}
 {{ item.title }}<br>
 {% endfor %}
