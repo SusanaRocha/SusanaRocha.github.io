@@ -7,7 +7,6 @@ sidebar:
 date: 1906-01-01
 header:
   teaser: organoid.png
-main: yes
 ---
 Nowadays, human organoids are becoming a highly promising tool to model organ development, function and especially human diseases in vitro. In general, organoids are miniature, simplified organs that can easily propagate in vitro originating from one or a few cells, typically stem cells.
 

@@ -1,0 +1,59 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /img/1.jpg
+      alt: image one
+    - src: /img/2.jpg
+      alt: image two
+    - src: /img/3.jpg
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: home
+  bullets: True
+  captions: True
+  images:
+    - src: /images/PIC-STED.jpg
+      alt: Structure of biomimetic hydrogel
+    - src: /images/cell_matrix.jpg
+      alt: Cell remodelling the matrix
+    - src: /images/super-res-comp.jpg
+      alt: Super-resolution fluroescence imaging
+    - src: /images/organoid3.jpg
+      alt: Imaging organoids
+    - src: /images/TOC-v3-01.jpg
+      alt:
+  settings:
+    height:  "'auto'"
+    interval: 5000
+    transitionDuration: 3000
+    maxHeight: 300
+    effect: "'slide'"
+
+
+
+
+- selector: keep as example
+  bullets:
+  captions:
+  images:
+    - data-src:
+      data-src-2x:
+      src:
+      title:
+      alt:
+      href:
+  settings:
+    height:
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:

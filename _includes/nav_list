@@ -1,4 +1,6 @@
 {% include base_path %}
+{% include slider_styles.html %}
+
 {% assign navigation = site.data.navigation[include.nav] %}
 
 {% if page.author and site.data.authors[page.author] %}

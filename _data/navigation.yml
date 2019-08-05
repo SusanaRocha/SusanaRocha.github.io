@@ -9,11 +9,14 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Research team"
+    url: /team/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Research team"
-    url: /team/
+  - title: "Talks & Posters"
+    url: /talks/
 
   - title: "Positions"
     url: /positions/
