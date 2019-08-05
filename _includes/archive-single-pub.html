@@ -26,24 +26,21 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
+    <br>
+    <span style="font-size:1.05em; line-height: 0.1; font-weight:bold" class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink"><span style="color:#494E52">{{ title }}</span></a>
       {% endif %}
-    </h3>
-
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    </span>
 
     {% if post.authors %}
-    <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.authors }}</i></span><br>
+    <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.authors }}</i></span><br>
     {% endif %}
 
     {% if post.collection == 'publications' %}
-    <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</b></span>
+    <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b></span>
     {% endif %}
 
     {% if post.paperurl %}
@@ -51,7 +48,7 @@
     {% endif %}
 
     {% if post.tagline %}
-    <br /><u><i>{{ post.tagline }}</i> </u>
+    <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br>
     {% endif %}
 
 

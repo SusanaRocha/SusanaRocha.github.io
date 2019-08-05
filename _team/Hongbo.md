@@ -2,7 +2,7 @@
 title: "Hongbo Yuan"
 collection: team
 header:
-  teaser: Hongbo.png
+  teaser: hongbo.png
 tags: post-doc
 tagline: Marie-Curie Fellowship
 date: 2019-01-01

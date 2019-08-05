@@ -10,7 +10,8 @@ image_sliders:
 ---
 <h1><span style="color:gray">Welcome to </span>Susana Rocha's Lab<span style="color:gray"> at KU Leuven</span></h1>
 <br>
-
+<img src='/images/check.png' style='width: 80%'>
+BUH
 {% include slider.html selector="home" %}
 
 <br>
