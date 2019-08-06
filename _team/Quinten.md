@@ -17,3 +17,10 @@ Consequently, studying how the properties of the ECM affect the cellular forces 
 A home-built confocal Fluorescence Lifetime Imaging Microscopy (FLIM) microscope is used to measure Förster Resonance Energy Transfer (FRET) in FAs.
 
 One of the hallmarks of cancer is the invasion into new tissues, i.e., when some pioneer mutant cells leave the tumor mass and start new colonies in other areas of the body. These distant settlements of cancer cells are named metastases and cause the majority of cancer related deaths. The involvement of ECM and cancer associated fibroblasts (CAFs) in metastasis is only now coming into the light, with accumulating evidence of the crucial role of biomechanics in this process. In this project new biomimetic polymers and state-of- the-art microscopic methods will be combined to study the interplay between the mechanical properties of the ECM and behavior of CAFs. A deep comprehension of how physical forces affect the tumour microenvironment will help scientists to develop novel diagnostic and therapeutic tools for more early detection and delayed cancer progression.
+
+<h2> Publications </h2>
+{% for post in site.publications reversed %}
+  {% if post.authors contains 'Quinten Coucke' %}
+    {% include archive-single-pub.html %}
+  {% endif %}
+{% endfor %}

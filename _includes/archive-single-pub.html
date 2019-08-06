@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <br>
+
     <span style="font-size:1.05em; line-height: 0.1; font-weight:bold" class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -44,13 +44,13 @@
     {% endif %}
 
     {% if post.paperurl %}
-    <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite></b></span>
+    <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite></b></span><br>
     {% endif %}
 
     {% if post.tagline %}
-    <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br>
+    <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br>
     {% endif %}
-
+<br>
 
   </article>
 </div>
