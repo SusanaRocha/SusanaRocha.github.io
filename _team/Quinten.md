@@ -8,6 +8,7 @@ tagline: co-promotor
 date: 2018-10-01
 subject: "Imaging the forces driving cancer progression"
 prom: Prof. Johan Hofkens
+email: "quinten.coucke@kuleuven.be"
 ---
 
 <p align= "justify">
