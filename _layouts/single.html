@@ -39,48 +39,11 @@ layout: default
           <i>{{ page.authors }}</i>
         {% endif %}
 
-        {% if page.collection == 'team' %}
-          {% if page.title == 'Susana Rocha' %}
-
-          <hr-bold>
-          <br>
-          <div class='pull-right' style='width: 25%; height: 210px; padding: 5px; object-fit: contain;'>
-           <img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
-          </div>
-
-            <p>
-              <i> Assistant Professor </i>
-
-              {% if page.email %}
-              <br><a href="mailto:{{ page.email }}" style="color:gray; text-decoration: none">email {{ page.title }}</a>
-                {% endif %}
-              <br>
-              <h3>Biosketch</h3>
-            Written on {{ page.date | default: "1900-01-01" | date: "%B, %Y" }}
-
-            </p>
-
-          {% else %}
-
-          <hr-bold>
-          <br>
-          <div class='pull-right' style='width: 25%; height: 210px; padding: 5px; object-fit: contain;'>
-           <img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
-          </div>
-
-            <p> <b>{{ page.subject }}</b>
-            <br> Started on {{ page.date | default: "1900-01-01" | date: "%B, %Y" }}
-            {% if page.prom %}
-               <br><i>{{ page.prom }}</i>
-            {% endif %}
-            {% if page.email %}
-            <br><br><a href="mailto:{{ page.email }}" style="color:gray; text-decoration: none">email {{ page.title }}</a>
-              {% endif %}
-            </p>
-           {% endif %}
-
-
-
+        {% if page.collection == 'news' %}
+        {% if page.header.teaser %}
+         <p><center><img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='max-height: 350px; width: 80%; object-fit: contain;' >
+        <p><justify>
+        {% endif %}
         {% endif %}
 
 

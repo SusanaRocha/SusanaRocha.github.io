@@ -2,8 +2,10 @@
 title: "Synthetic extracellular matrices regulate cellular organization: First article of Max!"
 date: 2019-01-17
 collection: news
+header:
+  teaser: articleMax.png
 ---
-<img src='/images/articleMax.png' style='width: 40%' align='right'>
+
 Even though we were not directly involved, the Leuven team is very happy to see this work published.
 Congratulations **Max**! All your hard work is starting to pay off. This is the first one, hopefully many more will follow.
 <br>
