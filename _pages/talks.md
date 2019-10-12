@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Prof. Rocha is interested in receiving invitations for presentations or talks.
+
 <h2> Posters </h2>
 - July 2019: Core to Core program, kickoff meeting, Leuven (Belgium)<br>
  **Characterization of cellular forces using FRET-based sensors** by <a href="{{ url }}/team/Quinten/"><i>Quinten Coucke</i> (get <a href="{{ url }}/files/Characterization_Cellular_Forces_20190705_FINAL.pdf"><span style="color:gray">PDF</span>)<br>

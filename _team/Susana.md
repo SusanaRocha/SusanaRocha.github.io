@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: Photo on PIMP2.jpg
 tags: PI
-tagline: Principal Investigator
+tagline: Assistant Professor
 date: 2019-08-01
 email: 'susana.rocha@kuleuven.be'
 ---

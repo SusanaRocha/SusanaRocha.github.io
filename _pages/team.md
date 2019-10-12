@@ -4,7 +4,10 @@ title: "Research Team"
 permalink: /team/
 author_profile: true
 ---
-<br><br>
+We are always looking for talented and enthusiastic masters, PhD students and post-doctoral researchers. <br> Please contact Prof. Rocha (<a href="mailto:{{ author.email }}"><span style="color:gray">email</span>) for inquiries.
+<hr-bold>
+<h2>Principal Investigator</h2>
+<hr><br>
 <div class="grid__wrapper">
   {% for post in site.team %}
     {% if post.tags contains 'PI' %}

@@ -18,9 +18,14 @@ main:
   - title: "Talks & Posters"
     url: /talks/
 
-  - title: "Positions"
-    url: /positions/
+  #- title: "Gallery"
+  #  url: /gallery/
 
+  #- title: "Positions"
+  #  url: /positions/
+
+  - title: "Contact"
+    url: /contact/
 #  - title: "Techniques"
 #    url: /techniques/
 

@@ -199,6 +199,12 @@ collections:
   mainoutreach:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -317,6 +323,26 @@ defaults:
     values:
       layout: talk
       author_profile: false
+      share: false
+      comment: true
+
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: talk
+      author_profile: true
+      share: false
+      comment: true
+
+  # _contact
+  - scope:
+      path: ""
+      type: contact
+    values:
+      layout: talk
+      author_profile: true
       share: false
       comment: true
 
