@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Rocha Lab"
 title_separator          : "-"
 name                     : &name "Susana Rocha's Lab"
 description              : &description "enthusiastic researcher"
@@ -73,9 +73,9 @@ social:
 
 # Site Author
 author:
-  name             : "Susana Rocha's Lab"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Imaging the forces driving cells"
+  bio              : ""
   location         : "KU Leuven, Belgium"
   employer         :
   googlescholar    : "https://scholar.google.be/citations?user=OsiAwIYAAAAJ&hl=en&citsig=AMstHGQQx0uqfgCvrTEny2ghp98R3FtD5Q"
