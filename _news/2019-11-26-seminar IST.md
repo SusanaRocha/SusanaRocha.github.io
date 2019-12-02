@@ -1,5 +1,5 @@
 ---
-title: "Visit to Technicla University of Lisbon (IST)"
+title: "Visit to Technical University of Lisbon (IST)"
 date: 2019-11-26
 collection: news
 header:
