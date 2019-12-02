@@ -51,13 +51,13 @@ Projs:
         url: /projects/PPIs/
       - title: "Organoids: models for cell communication"
         url: /projects/organoids/
+      - title: "New drug delivery systems"
+        url: /projects/DDS/
 
   - title: Collaborations
     children:
       - title: "Single cell manipulation by endoscopy"
         url: /projects/endoscopy/
-      - title: "New drug delivery systems"
-        url: /projects/DDS/
       - title: "Cell signalling: probes and methods"
         url: /projects/cell-signal/
       - title: "Correlative AFM and Fluorescence Microscopy"

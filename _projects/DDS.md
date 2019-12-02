@@ -1,9 +1,7 @@
 ---
 title: "New Drug delivery systems"
 collection: projects
-collection: projects
-tagline: with Prof. Uji-i
-tags: collaboration
+tags: individual project
 sidebar:
   nav: "Projs"
 date: 1909-01-01
