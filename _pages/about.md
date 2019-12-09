@@ -9,7 +9,11 @@ redirect_from:
 image_sliders:
   - home
 ---
-<h1><span style="color:gray">Welcome to the </span>Rocha Lab<span style="color:gray"> website!</span></h1>
+<h1 align="center"><span style="font-size:2em; color:black">Welcome</span></h1>
+<h1 align="center"><span style="color:gray">Laboratory ofBio-materials and Nanotechnology </span></h1>
+
+
+
 <body>
 <br>
 {% include slider.html selector="home" %}
