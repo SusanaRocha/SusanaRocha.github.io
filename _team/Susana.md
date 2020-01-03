@@ -2,7 +2,7 @@
 title: "Susana Rocha"
 collection: team
 header:
-  teaser: Photo on PIMP2.jpg
+  teaser: profileSR.png
 tags: PI
 tagline: Assistant Professor
 date: 2019-08-01

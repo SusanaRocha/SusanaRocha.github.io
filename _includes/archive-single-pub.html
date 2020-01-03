@@ -45,6 +45,8 @@
 
     {% if post.paperurl %}
     <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite></b></span><br>
+    {% else %}
+    <br>
     {% endif %}
 
     {% if post.tagline %}

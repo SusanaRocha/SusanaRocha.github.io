@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Rocha Lab"
+title2                    : "Start page"
 title_separator          : "-"
 name                     : &name "Susana Rocha's Lab"
 description              : &description "enthusiastic researcher"

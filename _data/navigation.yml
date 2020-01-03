@@ -3,13 +3,13 @@ main:
   - title: "News"
     url: /news/
 
-  - title: "Science Outreach"
+  - title: "Outreach"
     url: /outreach/
 
   - title: "Projects"
     url: /projects/
 
-  - title: "Research team"
+  - title: "Team"
     url: /team/
 
   - title: "Publications"
