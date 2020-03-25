@@ -83,8 +83,12 @@ layout: default
 
         {% if page.collection == 'news' %}
         {% if page.header.teaser %}
-         <p><center><img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='max-height: 350px; width: 80%; object-fit: contain;' >
-        <p><justify>
+         {% if page.gallery %}
+         <p>
+           {% else %}
+          <p><center><img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='max-height: 350px; width: 80%; object-fit: contain;' >
+         <p><justify>
+           {% endif %}
         {% endif %}
         {% endif %}
 

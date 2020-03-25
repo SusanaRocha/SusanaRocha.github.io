@@ -4,7 +4,7 @@ collection: publications
 date: 2020-01-30
 venue: 'Dyes and Pigments'
 authors: ' Flip de Jong, Jan Pokorny, Bella Manshian, Brent Daelemans, Johannes Vandaele, Justyna B. Startek, Stefaan Soenen, Mark Van der Auweraer, Wim Dehaen, Susana Rocha, Gaston Silveira-Dorta'
-paperurl:
+paperurl: 'https://www-sciencedirect-com.kuleuven.ezproxy.kuleuven.be/science/article/pii/S0143720819327615'
 tagline: '- Corresponding author'
 ---
 
