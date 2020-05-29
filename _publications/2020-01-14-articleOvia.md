@@ -5,6 +5,7 @@ date: 2020-01-14
 venue: 'Frontiers in Chemistry'
 authors: 'Ovia Margaret Thirukkumaran, Congrong Wang, Nnamdi Joseph Asouzu, Eduard Fron, Susana Rocha, Johan Hofkens, Luke D. Lavis, Hideaki Mizuno'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fchem.2019.00938/full'
+rgate: 'https://www.researchgate.net/publication/338576945_Improved_HaloTag_Ligand_Enables_BRET_Imaging_With_NanoLuc'
 ---
 
 <h2> Abstract </h2>

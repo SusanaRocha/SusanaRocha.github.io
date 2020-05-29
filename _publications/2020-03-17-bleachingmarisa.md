@@ -6,6 +6,7 @@ venue: 'ACS Omega'
 authors: 'Marisa Vanheusden, Raffaele Vitale, Rafael Camacho, Kris P. F. Janssen, Aline Acke, Susana Rocha, Johan Hofkens'
 paperurl: 'https://pubs.acs.org/doi/10.1021/acsomega.0c00118'
 tagline: '- Corresponding author'
+rgate: 'https://www.researchgate.net/publication/339992852_Fluorescence_Photobleaching_as_an_Intrinsic_Tool_to_Quantify_the_3D_Expansion_Factor_of_Biological_Samples_in_Expansion_Microscopy'
 ---
 
 <h2> Abstract </h2>

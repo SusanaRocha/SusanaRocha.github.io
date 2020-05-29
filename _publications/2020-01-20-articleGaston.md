@@ -6,6 +6,7 @@ venue: 'Dyes and Pigments'
 authors: ' Flip de Jong, Jan Pokorny, Bella Manshian, Brent Daelemans, Johannes Vandaele, Justyna B. Startek, Stefaan Soenen, Mark Van der Auweraer, Wim Dehaen, Susana Rocha, Gaston Silveira-Dorta'
 paperurl: 'https://www-sciencedirect-com.kuleuven.ezproxy.kuleuven.be/science/article/pii/S0143720819327615'
 tagline: '- Corresponding author'
+rgate: 'https://www.researchgate.net/publication/338561865_Development_and_characterization_of_BODIPY-derived_tracers_for_fluorescent_labeling_of_the_endoplasmic_reticulum'
 ---
 
 <h2> Abstract </h2>

@@ -1,5 +1,5 @@
 ---
-title: "First article of Marisa published in ACS Omaga, congratulations!!!"
+title: "First article of Marisa published in ACS Omega, congratulations!!!"
 date: 2020-03-17
 collection: news
 header:

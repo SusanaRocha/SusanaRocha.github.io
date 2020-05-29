@@ -44,10 +44,15 @@
     {% endif %}
 
     {% if post.paperurl %}
-    <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>  ) </cite></b></span><br>
+    <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see publication in <a href="{{ post.paperurl }}"> <u>Journal</u></a>
+    {% if post.rgate %}
+    or <a href="{{ post.rgate }}"> <u>Research Gate</u></a>
+      {% endif%}
+      ) </cite></b></span><br>
     {% else %}
     <br>
     {% endif %}
+
 
     {% if post.tagline %}
     <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br>

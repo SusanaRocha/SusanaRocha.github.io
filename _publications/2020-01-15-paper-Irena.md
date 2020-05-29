@@ -5,6 +5,7 @@ date: 2020-01-15
 venue: 'Journal of Virology'
 authors: 'Irena Zurnic Bönisch, Lieve Dirix, Veerle Lemmens, Doortje Borrenberghs, Flore De Wit, Frank Vernaillen, Susana Rocha, Frauke Christ, Jelle Hendrix, Johan Hofkens, Zeger Debyser'
 paperurl: 'https://jvi.asm.org/content/early/2020/01/09/JVI.01024-19'
+rgate: 'https://www.researchgate.net/publication/338609735_Capsid-Labelled_HIV_To_Investigate_the_Role_of_Capsid_during_Nuclear_Import_and_Integration'
 ---
 
 <h2> Abstract </h2>
