@@ -1,5 +1,5 @@
 ---
-title: "First article of Johannes published in ACS Omega, congratulations!!!"
+title: "First article of Johannes published in Soft Matter, congratulations!!!"
 date: 2020-06-02
 collection: news
 header:
