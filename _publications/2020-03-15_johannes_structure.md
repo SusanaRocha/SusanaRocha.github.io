@@ -6,7 +6,7 @@ venue: 'Soft Matter'
 authors: 'Johannes Vandaele, Boris Louis, Kaizheng Liu, Rafael Camacho, Paul H. J. Kouwer, Susana Rocha'
 paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2020/sm/c9sm01828j'
 rgate: 'https://www.researchgate.net/publication/340650420_Structural_characterization_of_fibrous_synthetic_hydrogels_using_fluorescence_microscopy'
-tagline: '- Corresponding author'
+tagline: 'Group paper'
 ---
 
 <h2> Abstract </h2>
