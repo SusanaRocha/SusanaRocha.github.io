@@ -10,4 +10,3 @@ Pierre is joining us as one of the two PhD students that will be working for the
 **Bienvenue Pierre!** <br><br>
 (There is no 'NanoGirls' anymore, we are now a 'NanoTeam'!)
 <br>
-<br>

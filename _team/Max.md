@@ -8,6 +8,7 @@ tagline:
 date: 2020-02-15
 subject: "Feel the force: cell adhesion in 3D biomimetic hydrogels"
 prom:
+email: kaizheng.liu@kuleuven.be
 ---
 <p align= "justify">
 Recent developments in mechanobiology have revealed that mechanosensing is an important regulator of cell behavior. In healthy tissues, mechanical homeostasis dominates the interconnected intra- and extra-cellular stress fibers by cell adhesion to the extracellular matrix (ECM). Focal adhesions are one of the core players in this process as they connect the cytoskeleton to the ECM, transmitting mechanical forces and regulatory signals from the matrix to the nucleus.
