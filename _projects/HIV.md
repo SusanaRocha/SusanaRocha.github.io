@@ -5,13 +5,15 @@ collection: projects
 tags: collaboration
 sidebar:
   nav: "Projs"
-date: 1911-01-01
+date: 1909-01-01
 header:
   teaser: HIV.png
 ---
 
 Viruses are simple agents exhibiting complex reproductive mechanisms. Decades of research have provided crucial basic insights, antiviral medication and moderately successful gene therapy trials. The most infectious viral particle is, however, not always the most abundant one in a population, questioning the utility of classic ensemble-averaging virology. Indeed, viral replication is often not particularly efficient, prone to errors or containing parallel routes.
-In collaboration with Prof. Zeger Debeyser (KU Leuven) and Prof Hendrix (UHasselt) we have applied different single-molecule sensitive fluorescence methods to investigate viruses, one-by-one. While this collaboration is still ongoing, there is already several publications that show-case the potential of imaging single virions.
+In collaboration with Prof. Zeger Debeyser (KU Leuven) and Prof Hendrix (UHasselt) we have applied different single-molecule sensitive fluorescence methods to investigate viruses, one-by-one.
+
+The most recent developments in imaging single HIV viral particles are summarized in our ACS Nano Perspective (<b><a href="{{site.github.url}}/publications/2020-08-15-HIV perspectives/">publication</a></b>).
 
 For more details, please see:
 * Borrenberghs, D., et al. (2016) *Dynamic oligomerization of integrase orchestrates HIV nuclear entry*, Scientific reports, 6, pages 36485 (article can be found <a href="https://www.nature.com/articles/srep36485">here</a>)

@@ -4,7 +4,7 @@ collection: projects
 tags: individual project
 sidebar:
   nav: "Projs"
-date: 1905-01-01
+date: 1920-01-01
 header:
   teaser: PPIs.png
 ---
