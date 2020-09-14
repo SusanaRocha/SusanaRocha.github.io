@@ -6,6 +6,7 @@ venue: 'ACS Nano'
 authors: 'Susana Rocha, Jelle Hendrix, Doortje Borrenberghs, Zeger Debyser, Johan Hofkens'
 paperurl: 'https://pubs.acs.org/doi/full/10.1021/acsnano.0c06369'
 rgate: 'https://www.researchgate.net/publication/343797442_Imaging_the_Replication_of_Single_Viruses_Lessons_Learned_from_HIV_and_Future_Challenges_To_Overcome'
+tagline: 'Group paper'
 ---
 
 The submitted version of this article can be obtained <b><a href="{{site.github.url}}/files/SingleVirus_final.pdf/">here</a></b>.
