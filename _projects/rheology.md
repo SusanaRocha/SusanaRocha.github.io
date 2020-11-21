@@ -2,7 +2,7 @@
 title: "Rheology at the micrometer scale"
 collection: projects
 tags: individual project
-date: 1902-01-01
+date: 1992-01-01
 sidebar:
   nav: "Projs"
 header:

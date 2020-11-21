@@ -6,7 +6,7 @@ header:
 sidebar:
   nav: "Projs"
 tags: individual project
-date: 1901-01-01
+date: 1998-01-01
 ---
 
 Our current theoretical understanding of entangled polymer chain dynamics is based on the reptation model. First proposed by Doi and Edwards, and further expanded by de Gennes, the reptation model assumes that a polymer chain is confined by the surrounding matrix and is therefore forced to move inside an imaginary tube defined by the transient network of entangled neighboring chains. Intuitively this motion resembles that of a snake or worm.

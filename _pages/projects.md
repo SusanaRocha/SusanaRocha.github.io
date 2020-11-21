@@ -19,9 +19,23 @@ sidebar:
 </div>
 </div>
 
+<hr-bold>
+<h2>Research Networks</h2>
+<hr>
+
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.projects %}
+    {% if post.tags contains 'network' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
 
 <hr-bold>
-<h2>Collaborations</h2>
+<h2>Other Collaborations</h2>
 <hr>
 
 <div class="grid">
