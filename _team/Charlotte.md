@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: charlotte.png
 tags: phd
-tagline: promotor
+tagline: FWO fellowship <br> promotor
 date: 2020-07-01
 subject: "Cancer cells on the move: the role of cellular adhesion complexes and microenvironment in metastasis"
 email: charlotte.cresens@student.kuleuven.be

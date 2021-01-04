@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: boris.png
 tags: phd
-tagline: co-promotor
+tagline: FWO fellowship <br> co-promotor
 date: 2017-01-01
 subject: "Fluorescence microscopy, a versatile tool to unravel polymer properties"
 prom: Prof. Johan Hofkens

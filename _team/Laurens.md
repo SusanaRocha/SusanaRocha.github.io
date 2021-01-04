@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: Laurens.png
 tags: phd
-tagline: co-promotor
+tagline: FWO fellowship <br> co-promotor
 date: 2017-09-08
 subject: "Fluorocode: towards super-resolved mapping of the gut microbiome"
 prom: Prof. Johan Hofkens

@@ -6,6 +6,6 @@ author_profile: false
 sidebar:
   nav: "Tech"
 header:
-  teaser: organization.png
+  teaser: organization.jpg
 layout: archive
 ---

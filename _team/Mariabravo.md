@@ -3,7 +3,7 @@ title: "Maria Bravo"
 collection: team
 header:
   teaser: person.png
-tags: inter
+tags: alumni
 tagline: promotor
 date: 2020-02-15
 subject: "Forcing nanomedicines: how tumor mechanics affect the active targeting of CD44 receptors by hyaluronic acid"

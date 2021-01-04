@@ -6,7 +6,7 @@ header:
 tags: phd
 subject: "Nanowire based intracellular delivery: a versatile tool for gene therapy"
 prom: Prof. Hiroshi Uji-i (promotor)
-tagline: co-promotor
+tagline: FWO-SB fellowship <br> co-promotor
 date: 2015-10-01
 email: monica.ricci@kuleuven.be
 ---

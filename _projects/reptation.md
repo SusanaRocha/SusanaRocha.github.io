@@ -2,7 +2,7 @@
 title: "Polymer reptation in 3D"
 collection: projects
 header:
-  teaser: reptation_feature.png
+  teaser: reptation_feature.jpg
 sidebar:
   nav: "Projs"
 tags: individual project

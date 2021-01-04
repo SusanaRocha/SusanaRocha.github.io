@@ -7,7 +7,7 @@ sidebar:
   nav: "Projs"
 date: 1910-02-01
 header:
-  teaser: pie.png
+  teaser: pie.jpg
 ---
 Cell signaling involves the sensing of an extracellular signal by a cell surface receptor, which then transduces this signal to an intracellular response. Despite the numerous studies performed on signaling pathways and mechanisms, little is known about the initial steps occurring at the plasma membrane: receptor pre-assembly at the molecular level and potential reorganization after ligand activation. Traditionally crystallography is used to investigate receptor multimerization. However, the crystallized state might not represent the biochemically active form due to the harsh preparation conditions and the absence of the cellular environment. Other approaches include macroscopic biochemical or biophysical methods, such as chemical cross-linking, ion-channel gating, immunoprecipitation or binding assays. Nowadays, established fluorescence imaging and spectroscopic techniques offer a versatile toolbox to study membrane receptor organization in (living) cells.
 <br/><br/>

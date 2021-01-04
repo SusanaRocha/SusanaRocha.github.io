@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: Pierre.jpg
 tags: phd
-tagline: promotor
+tagline: Marie-Curie ITN <br> promotor
 date: 2020-07-01
 prom: SuperCol (Marie-Curie Innovative Training Network)
 subject: "Tracking the Biological Fate of Functional Nanoparticles Using Fluorescence Microscopy"

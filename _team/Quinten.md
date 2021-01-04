@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: Quinten.png
 tags: phd
-tagline: co-promotor
+tagline: FLOF grant <br> co-promotor
 date: 2018-10-01
 subject: "Imaging the forces driving cancer progression"
 prom: Prof. Johan Hofkens

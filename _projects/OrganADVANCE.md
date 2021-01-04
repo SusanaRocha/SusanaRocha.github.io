@@ -10,7 +10,7 @@ header:
   teaser: organadvance.png
 ---
 <figure style="width: 100%" class="align-center">
-<img src='/images/banner.png'>
+<img src='/images/banner.jpg'>
 </figure>
 
 <h3> Advanced organoid assays for modelling human disease </h3>

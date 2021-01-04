@@ -27,7 +27,7 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 
 <div class="grid">
 <div class="wrapper">
-  {% for post in site.team %}
+  {% for post in site.team reversed %}
     {% if post.tags contains 'post-doc' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
@@ -40,7 +40,7 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr><br>
 <div class="grid">
 <div class="wrapper">
-  {% for post in site.team %}
+  {% for post in site.team reversed  %}
     {% if post.tags contains 'phd' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
@@ -53,7 +53,7 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr><br>
 <div class="grid">
 <div class="wrapper">
-  {% for post in site.team %}
+  {% for post in site.team reversed %}
     {% if post.tags contains 'master' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
@@ -66,7 +66,7 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr><br>
 <div class="grid">
 <div class="wrapper">
-  {% for post in site.team %}
+  {% for post in site.team reversed %}
     {% if post.tags contains 'inter' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
@@ -78,7 +78,11 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
-<b>Dr. Herlinde Dekeersmaecker</b><br>
-Herlinde finished her PhD on <i>'Superresolution fluorescence microscopy based techniques for the study of signal transduction'</i> in February 2017 (co-promotor). <br><br>
+<b>Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020<br>
+After a short research stay, Max join us to continue his work on the effect of non-linear mechanics on cell behaviour <br><br>
+<b>Maria Bravo</b>, <i> intership student Feb-Aug 2020 <br>
+Maria joined our group as an Erasmus+ exchange student to work on the functionalization of nanoparticles for drug delivery. <br><br>
 <b>Elfriede Heerwegh</b><br>
 Elfriede finished her master thesis on <i>'The role of cancer associated fibroblasts in tumor invasion'</i> in June 2019 (promotor). <br><br>
+<b>Dr. Herlinde Dekeersmaecker</b><br>
+Herlinde finished her PhD on <i>'Superresolution fluorescence microscopy based techniques for the study of signal transduction'</i> in February 2017 (co-promotor). <br><br>

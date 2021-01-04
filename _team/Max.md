@@ -3,7 +3,7 @@ title: "Kaizheng Liu (Max)"
 collection: team
 header:
   teaser: Profile_Max.jpg
-tags: post-doc
+tags: alumni
 tagline:  
 date: 2020-02-15
 subject: "Feel the force: cell adhesion in 3D biomimetic hydrogels"

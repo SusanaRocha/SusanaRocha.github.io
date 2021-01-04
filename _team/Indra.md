@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: indra.png
 tags: phd
-tagline: co-promotor
+tagline: FWO fellowship <br> co-promotor
 date: 2017-10-01
 subject: "Next-generation cancer therapy: gene editing meets nanotechnology"
 prom: Prof. Hiroshi Uji-i (promotor)

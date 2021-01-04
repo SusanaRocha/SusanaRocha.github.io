@@ -6,7 +6,7 @@ author_profile: false
 sidebar:
   nav: "Tech"
 header:
-  teaser: dynamics.png
+  teaser: dynamics.jpg
 layout: archive
 ---
 bla bla bla

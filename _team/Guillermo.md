@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: guille2.png
 tags: phd
-tagline: assessor
+tagline: FWO fellowship <br> assessor
 date: 2017-10-01
 subject: "Combined proteomics and single-molecule fluorescence based profiling of metastatic colorectal cancer markers"
 prom: Prof. Johan Hofkens

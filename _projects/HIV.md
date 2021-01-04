@@ -7,7 +7,7 @@ sidebar:
   nav: "Projs"
 date: 1909-01-01
 header:
-  teaser: HIV.png
+  teaser: HIV.jpg
 ---
 
 Viruses are simple agents exhibiting complex reproductive mechanisms. Decades of research have provided crucial basic insights, antiviral medication and moderately successful gene therapy trials. The most infectious viral particle is, however, not always the most abundant one in a population, questioning the utility of classic ensemble-averaging virology. Indeed, viral replication is often not particularly efficient, prone to errors or containing parallel routes.

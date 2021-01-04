@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: johannes.png
 tags: phd
-tagline: co-promotor
+tagline: FWO fellowship <br> co-promotor
 date: 2017-11-01
 subject: "Studying nanoscale heterogeneities and dynamics of new biomimetic polymer gels using advanced microscopy"
 prom: Prof. Johan Hofkens
