@@ -3,7 +3,7 @@ title: "EMBO travel grant awarded"
 date: 2018-01-24
 collection: news
 header:
-  teaser: Max.png
+  teaser: Max.jpg
 ---
 
 Congragulations **Max**!

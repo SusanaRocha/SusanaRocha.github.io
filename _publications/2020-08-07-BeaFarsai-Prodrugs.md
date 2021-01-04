@@ -4,7 +4,7 @@ collection: publications
 date: 2020-08-07
 venue: 'Nanoscale'
 authors: 'Farsai Taemaitree, Beatrice Fortuni, Yoshitaka Koseki, Eduard Fron, Susana Rocha, Johan Hofkens, Hiroshi Uji-i, Tomoko Inose, Hitoshi Kasai'
-paperurl: 'https://pubs-rsc-org.kuleuven.ezproxy.kuleuven.be/en/content/articlelanding/2020/NR/D0NR04910G#!divAbstract'
+paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR04910G#!divAbstract'
 rgate: 'https://www.researchgate.net/publication/343521574_FRET-based_intracellular_investigation_of_nanoprodrugs_toward_highly_efficient_anticancer_drug_delivery'
 ---
 

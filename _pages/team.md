@@ -78,9 +78,9 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
-<b>Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020<br>
+<b>Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020 </i><br>
 After a short research stay, Max join us to continue his work on the effect of non-linear mechanics on cell behaviour <br><br>
-<b>Maria Bravo</b>, <i> intership student Feb-Aug 2020 <br>
+<b>Maria Bravo</b>, <i> intership student Feb-Aug 2020 </i><br>
 Maria joined our group as an Erasmus+ exchange student to work on the functionalization of nanoparticles for drug delivery. <br><br>
 <b>Elfriede Heerwegh</b><br>
 Elfriede finished her master thesis on <i>'The role of cancer associated fibroblasts in tumor invasion'</i> in June 2019 (promotor). <br><br>
