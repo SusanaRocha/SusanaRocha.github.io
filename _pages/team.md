@@ -78,8 +78,10 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
-<b>Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020 </i><br>
-After a short research stay, Max join us to continue his work on the effect of non-linear mechanics on cell behaviour <br><br>
+<b>Dr. Monica Ricci </b>, <i> PhD student </i><br>
+Monica finished her PhD entitled <i> Hands and Eyes on Single-cells: Silver Nanowire Endoscopy for Intracellular Delivery and Sensing</i> in January 2021(co-promotor, <a href="{{site.github.url}}/team/Monica"><span style="color:gray">link to archived page</span></a>)<br><br>
+<b>Dr. Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020 </i><br>
+After a short research stay, Max join us to continue his work on the effect of non-linear mechanics on cell behaviour (<a href="{{site.github.url}}/team/Max"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Maria Bravo</b>, <i> intership student Feb-Aug 2020 </i><br>
 Maria joined our group as an Erasmus+ exchange student to work on the functionalization of nanoparticles for drug delivery. <br><br>
 <b>Elfriede Heerwegh</b><br>

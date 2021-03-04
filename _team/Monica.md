@@ -3,7 +3,7 @@ title: "Monica Ricci"
 collection: team
 header:
   teaser: monica.png
-tags: phd
+tags: alumni
 subject: "Nanowire based intracellular delivery: a versatile tool for gene therapy"
 prom: Prof. Hiroshi Uji-i (promotor)
 tagline: FWO-SB fellowship <br> co-promotor
