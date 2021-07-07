@@ -6,7 +6,7 @@ header:
 tags: phd
 subject: "Cells under pressure: the role of mechanical cues on cellular force transmission"
 tagline: promotor
-date: 2021-03-01
+date: 2021-04-01
 email: samet.aytekin@kuleuven.be
 ---
 

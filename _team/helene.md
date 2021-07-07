@@ -1,13 +1,13 @@
 ---
-title: "Laurens Kimps"
+title: "Helene Huts"
 collection: team
 header:
   teaser: person.png
 tags: master
 tagline: co-promotor
-date: 2020-10-02
+date: 2021-07-02
 subject: "Combining molecular sensors and high-resolution imaging for quantifying sub-cellular forces"
-email: laurens.kimps@student.kuleuven.be
+email: helene.huts@student.kuleuven.be
 ---
 <p align= "justify">
 Mechanical forces play a critical role during the evolution of the most important biological processes, such as the formation of new blood vessels or embryonic development. Cellular and tissue-level forces direct cell migration, drive tissue morphogenesis and regulate organ growth. Despite the relevance of mechanics for these processes, our knowledge of the dynamics of mechanical forces in living tissues remains scarce.

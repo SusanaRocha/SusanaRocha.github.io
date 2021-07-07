@@ -3,7 +3,7 @@ title: "Danai Laskaratou"
 collection: team
 header:
   teaser: danai.png
-tags: phd
+tags: alumni
 tagline: FLOF grant <br> co-promotor
 date: 2016-10-01
 subject: "Regulation of cell signaling via ErbB3, a pseudokinase subtype of receptor tyrosine kinases"
