@@ -105,9 +105,9 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% elsif page.paperurl %}
-          <cite>(see publication in <a href="{{ post.paperurl }}"> Journal</a>
+          <cite>(see publication in <a href="{{ page.paperurl }}"> Journal</a>
             {% if page.rgate %}
-            or in <a href="{{ post.rgate }}"> Research Gate</a>  
+            or in <a href="{{ page.rgate }}"> Research Gate</a>
             {% endif %}
             ) </cite>
         {% endif %}
