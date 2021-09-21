@@ -78,6 +78,8 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
+<b>Dr. Laurens D'Huys </b>, <i> PhD student </i><br>
+Danai finished her PhD entitled <i> Optical DNA Mapping: The Super-Resolved Genomic Barcode</i> in September 2021(co-promotor, <a href="{{site.github.url}}/team/Laurens"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Dr. Danai Laskaratou </b>, <i> PhD student </i><br>
 Danai finished her PhD entitled <i> Development of fluorescent protein-based strategies and microscopy techniques for cell signaling studies</i> in July 2021(co-promotor, <a href="{{site.github.url}}/team/Danai"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Dr. Monica Ricci </b>, <i> PhD student </i><br>

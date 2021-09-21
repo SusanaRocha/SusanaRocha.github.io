@@ -24,12 +24,6 @@ If you are not a scientist but are still interested in what we do, check out the
 <br>
 <hr-bold>
 <br>
-<p align="center">
-<img src='/images/SummerSchoolBanner-02-02.png' style='width: 80%'><br><br>
-<a href="https://www.kuleuven.be/english/summer-schools/feeltheforce/home"><span style="color:gray">Click here for more information on this event</span></a>
-</p>
-<hr-bold>
-<br>
 
 <div style="text-align:left; vertical-align: middle border-left: 500px">
 <h2><a href="{{site.github.url}}/news"><span style="color:gray">Latest news:</span></a></h2>

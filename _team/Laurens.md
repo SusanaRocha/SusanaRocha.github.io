@@ -3,7 +3,7 @@ title: "Laurens D'Huys"
 collection: team
 header:
   teaser: Laurens.png
-tags: phd
+tags: alumni
 tagline: FWO fellowship <br> co-promotor
 date: 2017-09-08
 subject: "Fluorocode: towards super-resolved mapping of the gut microbiome"
