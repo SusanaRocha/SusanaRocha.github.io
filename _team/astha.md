@@ -5,7 +5,7 @@ header:
   teaser: person.png
 tags: master
 tagline: promotor
-date: 2021-07-01
+date: 2021-09-29
 subject: "Cancer cells on the move: the role of cellular adhesion complexes and microenvironment in metastasis"
 email: astha.tiwari@student.kuleuven.be
 ---

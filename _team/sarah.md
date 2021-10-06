@@ -5,7 +5,7 @@ header:
   teaser: person.png
 tags: master
 tagline: promotor
-date: 2021-07-01
+date: 2021-09-29
 subject: "Felling the force: the role of calcium signalling in mechanotransduction"
 email: sarah.vorsselmans@student.kuleuven.be
 ---
