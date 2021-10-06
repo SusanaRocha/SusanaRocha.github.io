@@ -92,7 +92,7 @@ Stéphanie finished her master thesis on <i>'The influence of the ECM on Cancer 
 Nele finished her master thesis on <i>'Imaging and manipulation of the immunological synapse with polyisocyanopeptide polymers'</i> in June 2021 (promotor). <br><br>
 <b>Laurens Kimps</b>, <i> Master student </i><br>
 Laurens finished his master thesis on <i>'Quantifying the Förster resonance energy transfer of intracellular tension sensors for investigating mechanotransduction'</i> in June 2021 (co-promotor). <br><br>
-<b>Maria Bravo</b>, <i> intership student Feb-Aug 2020 </i><br>
+<b>Maria Bravo</b>, <i> internship student Feb-Aug 2020 </i><br>
 Maria joined our group as an Erasmus+ exchange student to work on the functionalization of nanoparticles for drug delivery. <br><br>
 <b>Elfriede Heerwegh</b>, <i> Master student </i><br>
 Elfriede finished her master thesis on <i>'The role of cancer associated fibroblasts in tumor invasion'</i> in June 2019 (promotor). <br><br>
