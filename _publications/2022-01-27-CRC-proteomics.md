@@ -1,0 +1,13 @@
+---
+title: Spatial Proteomic Analysis of Isogenic Metastatic Colorectal Cancer Cells Reveals Key Dysregulated Proteins Associated with Lymph Node, Liver, and Lung Metastasis
+collection: publications
+date: 2022-01-27
+venue: Cells
+authors: 'Guillermo Solís-Fernández, Ana Montero-Calle, Javier Martínez-Useros, Álvaro López-Janeiro, Vivian de los Ríos, Rodrigo Sanz, Jana Dziakova, Elena Milagrosa, María Jesús Fernández-Aceñero, Alberto Peláez-García, José Ignacio Casal, Johan Hofkens, Susana Rocha, Rodrigo Barderas'
+paperurl: https://www.mdpi.com/2073-4409/11/3/447
+rgate:
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+Metastasis is the primary cause of colorectal cancer (CRC) death. The liver and lung, besides adjacent lymph nodes, are the most common sites of metastasis. Here, we aimed to study the lymph nodes, liver, and lung CRC metastasis by quantitative spatial proteomics analysis using CRC cell-based models that recapitulate these metastases. The isogenic KM12 cell system composed of the non-metastatic KM12C cells, liver metastatic KM12SM cells, and liver and lung metastatic KM12L4a cells, and the isogenic non-metastatic SW480 and lymph nodes metastatic SW620 cells, were used. Cells were fractionated to study by proteomics five subcellular fractions corresponding to cytoplasm, membrane, nucleus, chromatin-bound proteins, and cytoskeletal proteins, and the secretome. Trypsin digested extracts were labeled with TMT 11-plex and fractionated prior to proteomics analysis on a Q Exactive. We provide data on protein abundance and localization of 4710 proteins in their different subcellular fractions, depicting dysregulation of proteins in abundance and/or localization in the most common sites of CRC metastasis. After bioinformatics, alterations in abundance and localization for selected proteins from diverse subcellular localizations were validated via WB, IF, IHC, and ELISA using CRC cells, patient tissues, and plasma samples. Results supported the relevance of the proteomics results in an actual CRC scenario. It was particularly relevant that the measurement of GLG1 in plasma showed diagnostic ability of advanced stages of the disease, and that the mislocalization of MUC5AC and BAIAP2 in the nucleus and membrane, respectively, was significantly associated with poor prognosis of CRC patients. Our results demonstrate that the analysis of cell extracts dilutes protein alterations in abundance in specific localizations that might only be observed studying specific subcellular fractions, as here observed for BAIAP2, GLG1, PHYHIPL, TNFRSF10A, or CDKN2AIP, which are interesting proteins that should be further analyzed in CRC metastasis.

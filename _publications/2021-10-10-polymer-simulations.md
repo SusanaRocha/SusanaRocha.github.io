@@ -1,0 +1,13 @@
+---
+title: Synergy of Advanced Experimental and Modeling Tools to Underpin the Synthesis of Static Step-Growth-Based Networks Involving Polymeric Precursor Building Blocks
+collection: publications
+date: 2021-10-13
+venue: Macromolecules
+authors: 'Lies De Keer, Federica Cavalli, Diego Estupiñán, Andreas JD Krüger, Susana Rocha, Paul HM Van Steenberge, Marie-Françoise Reyniers, Laura De Laporte, Johan Hofkens, Leonie Barner, Dagmar R D’hooge'
+paperurl: https://pubs.acs.org/doi/abs/10.1021/acs.macromol.1c01476
+rgate:
+---
+
+<h2> Abstract </h2>
+<p align= "justify">
+The strength of combining experimental design and advanced kinetic Monte Carlo (kMC) modeling to understand step-growth network synthesis, commencing with a linear/star polymeric precursor, is illustrated considering three chemistries: (i) para-fluoro-thiol reaction (PFTR); (ii) nitrile imine-mediated tetrazole-ene cycloaddition (NITEC); and (iii) star poly(ethylene oxide-stat-propylene oxide) (sPEG)-amine-epoxy click reaction. Chemical parameters are determined based on small-molecule systems (monofunctional analogues) and diffusion parameters based on literature data and higher-network-yield data. Overall model validation is performed considering molar mass and spectroscopic experimental data. As basic support, kMC modeling provides the evolution of the complete size exclusion chromatography trace for both the soluble and the insoluble fraction at any time. In more detail, kMC modeling allows one to construct, whenever desired, two-dimensional traces such as the distribution of species with a given molar mass and number of cross-linking points (CPs) of a given type (e.g., with at least three cross-links), still differentiating between the soluble and insoluble fractions. Ultimately, postprocessing of kMC modeling results allows one to calculate distributions regarding distances between specific functional groups and the molecular pore size distribution upon considering a three-dimensional representation of the molecular buildup of individual network molecules. Also, the (relative) importance of reaction pathways can be assessed. It is, for instance, shown that diffusional limitations on intermolecular reactions determine how far a polymer network yield can be pushed, with a strong effect due to an intrinsically fast maleimide incorporation step, specifically for NITEC. Too long linear precursor building blocks should be avoided as they induce too prominent diffusional limitations. Too short linear precursor building blocks promote intramolecular reactions. With the sPEG building blocks, a well-defined structure is obtained, as confirmed by the narrow distribution regarding the distances between dye molecules added in the polymerization recipe.

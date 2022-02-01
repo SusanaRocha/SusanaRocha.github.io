@@ -3,7 +3,7 @@ title: "Marisa Vanheusden"
 collection: team
 header:
   teaser: marisa.jpeg
-tags: phd
+tags: alumni
 tagline: FWO-SB fellowship <br> co-promotor
 date: 2018-01-01
 subject: "In situ, spatially resolved 'omits' at the single cell level, unlocked through expansion microscopy"

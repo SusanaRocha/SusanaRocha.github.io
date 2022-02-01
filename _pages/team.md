@@ -78,6 +78,8 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
+<b>Dr. Marisa Vanheusden </b>, <i> PhD student </i><br>
+Marisa finished her PhD entitled <i> Multiplexing spatially resolved omics with increased resolution: Development of an expansion microscopy platform </i> in December 2021 (co-promotor, <a href="{{site.github.url}}/team/marisa"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Dr. Laurens D'Huys </b>, <i> PhD student </i><br>
 Laurens finished his PhD entitled <i> Optical DNA Mapping: The Super-Resolved Genomic Barcode</i> in September 2021(co-promotor, <a href="{{site.github.url}}/team/Laurens"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Dr. Danai Laskaratou </b>, <i> PhD student </i><br>
