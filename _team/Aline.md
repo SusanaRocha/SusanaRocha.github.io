@@ -3,7 +3,7 @@ title: "Aline Acke"
 collection: team
 header:
   teaser: aline.jpg
-tags: phd
+tags: Alumni
 tagline: FWO fellowship <br> co-promotor
 date: 2017-10-01
 subject: "Extending the use of expansion microscopy as a tool to study an array of biological questions at the nanoscale: From proteins to viruses"

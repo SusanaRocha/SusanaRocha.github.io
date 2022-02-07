@@ -39,7 +39,7 @@
     <br><span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.authors }}</i></span><br>
     {% endif %}
 
-    {% if post.collection == 'publications' %}
+    {% if post.collection == 'publications' and post.paperurl%}
     <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b></span>
     {% endif %}
 
@@ -49,9 +49,11 @@
     or <a href="{{ post.rgate }}"> <u>Research Gate</u></a>
       {% endif%}
       ) </cite></b></span><br>
-    {% else %}
-    <br>
     {% endif %}
+
+    {% if post.collection == 'publications' and  post.repo %}
+    <span style="font-size:0.8em; line-height: 0.5;"><b>Deposited in <i>{{ post.repo }}</i> <cite>(see <a href="{{ post.repourl }}"> <u>link</u></a>)</cite></b></span><br>
+    {% endif%}
 
 
     {% if post.tagline %}

@@ -1,10 +1,12 @@
 ---
 title: 'Versatile and Robust method for Antibody Conjugation to Nanoparticles with High Targeting Efficiency'
 collection: publications
-date: 2021-09-29
-venue: 'bioRxiv'
+date: 2021-12-14
+venue: 'Pharmaceutics'
 authors: 'Indra Van Zundert, Maria Bravo, Olivier Deschaume, Pierre Cybulski, Carmen Bartic, Johan Hofkens, Hiroshi Uji-i, Beatrice Fortuni, Susana Rocha'
-paperurl: 'https://www.biorxiv.org/content/10.1101/2021.09.29.462399v1'
+paperurl: 'https://www.mdpi.com/1999-4923/13/12/2153'
+repo: 'bioRxiv'
+repourl: 'https://www.biorxiv.org/content/10.1101/2021.09.29.462399v1'
 rgate:
 ---
 
