@@ -3,7 +3,7 @@ title: "Indra van Zundert"
 collection: team
 header:
   teaser: indra.png
-tags: phd
+tags: Alumni
 tagline: FWO fellowship <br> co-promotor
 date: 2017-10-01
 subject: "Next-generation cancer therapy: gene editing meets nanotechnology"

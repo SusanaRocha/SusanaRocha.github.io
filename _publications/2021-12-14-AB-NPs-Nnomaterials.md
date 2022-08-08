@@ -8,6 +8,7 @@ paperurl: 'https://www.mdpi.com/1999-4923/13/12/2153'
 repo: 'bioRxiv'
 repourl: 'https://www.biorxiv.org/content/10.1101/2021.09.29.462399v1'
 rgate:
+tagline: 'Group paper'
 ---
 
 <h2> Abstract </h2>

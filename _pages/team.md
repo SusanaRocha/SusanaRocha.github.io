@@ -29,7 +29,9 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <div class="wrapper">
   {% for post in site.team reversed %}
     {% if post.tags contains 'post-doc' %}
+    {% if post.date < site.time %}
       {% include archive-single-proj.html type="grid" %}
+    {% endif %}
     {% endif %}
   {% endfor %}
 </div>
@@ -42,7 +44,9 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <div class="wrapper">
   {% for post in site.team reversed  %}
     {% if post.tags contains 'phd' %}
+    {% if post.date < site.time %}
       {% include archive-single-proj.html type="grid" %}
+    {% endif %}
     {% endif %}
   {% endfor %}
 </div>
@@ -78,7 +82,15 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
-<b>Dr. Aline Acke</b>, <i> PhD student </i><br>
+<b>Astha Tiwari</b>, <i> Master student </i><br>
+Astha finished her master thesis on <i>'Investigation of clathrin- mediated endocytosis in cancer metastasis using confocal and super-resolution microscopy'</i> in June 2022 (promotor). <br><br>
+<b>Lars Fever</b>, <i> Master student </i><br>
+Lars finished his internship on <i>'Effect of substrate stiffness on the cellular uptake of nanoparticles'</i> in June 2022 (promotor). <br><br>
+<b>Fábio Gonçalves</b>, <i> Master student </i><br>
+Fábio finished his Erasmus + internship on <i>'Investigating the Hofmeister Effect on Polyisocyanopeptide Gels'</i> in June 2022 (co-promotor). <br><br>
+<b>Dr. Indra Van Zundert</b>, <i> PhD student </i><br>
+Indra finished her PhD entitled <i> Bringing Drug Delivery Systems into the Third Dimension </i> in June 2022 (co-promotor, <a href="{{site.github.url}}/team/Indra"><span style="color:gray">link to archived page</span></a>)<br><br><b>
+Dr. Aline Acke</b>, <i> PhD student </i><br>
 Aline finished her PhD entitled <i> Studying an Array of Biological Questions at the Nanoscale with Expansion Microscopy:
 From cells to viruses </i> in February 2022 (co-promotor, <a href="{{site.github.url}}/team/Aline"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Dr. Marisa Vanheusden</b>, <i> PhD student </i><br>
