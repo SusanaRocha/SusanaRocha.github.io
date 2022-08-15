@@ -16,6 +16,8 @@
   bullets: True
   captions: True
   images:
+    - src: /images/group-indra.jpeg
+      alt: the group & Co. - 27th June 2022
     - src: /images/PIC-STED.jpg
       alt: Structure of biomimetic hydrogel
     - src: /images/cell_matrix.jpg
@@ -24,8 +26,6 @@
       alt: Super-resolution fluroescence imaging
     - src: /images/banner.jpg
       alt: Imaging organoids
-    - src: /images/TOC-v3-01.jpg
-      alt:
   settings:
     height:  "'auto'"
     interval: 5000
