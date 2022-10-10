@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: hongbo.png
 tags: post-doc
-tagline: FWO Fellowship
+tagline: FWO Fellowship <br> promotor
 date: 2019-10-01
 subject: "Bi-directional Force Communication on Cell-Matrix - BFCCM"
 prom: FWO Fellowship

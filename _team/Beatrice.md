@@ -4,7 +4,7 @@ collection: team
 header:
   teaser: bea.png
 tags: post-doc
-tagline: FWO Fellowship
+tagline: FWO Fellowship <br> co-promotor
 date: 2022-10-01
 subject: "Engineering of nanomaterials for cancer phototherapies in 3D cell models"
 prom: FWO Fellowship
