@@ -3,7 +3,7 @@ title: "Johannes Vandaele"
 collection: team
 header:
   teaser: johannes.png
-tags: phd
+tags: Alumni
 tagline: FWO fellowship <br> co-promotor
 date: 2017-11-01
 subject: "Studying nanoscale heterogeneities and dynamics of new biomimetic polymer gels using advanced microscopy"
