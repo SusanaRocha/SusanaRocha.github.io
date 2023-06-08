@@ -3,7 +3,7 @@ title: "Guillermo Solis"
 collection: team
 header:
   teaser: guille2.png
-tags: phd
+tags: Alumni
 tagline: FWO fellowship <br> co-promotor
 date: 2017-10-01
 subject: "Combined proteomics and single-molecule fluorescence based profiling of metastatic colorectal cancer markers"
