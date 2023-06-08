@@ -82,10 +82,6 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
-<b>Dr. Johannes Vandaele</b>, <i> PhD student </i><br>
-Johannes finished his PhD entitled <i> Structural and thermo-mechanical characterization of new biomimetic materials </i> in January 2023 (co-promotor, <a href="{{site.github.url}}/team/Johannes"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Guillermo Solis</b>, <i> PhD student </i><br>
-Guillermofinished his PhD entitled <i> Imaging and proteomics-based analysis of colorectal cancer metastasis </i> in September 2022 (co-promotor, <a href="{{site.github.url}}/team/Guillermo"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Astha Tiwari</b>, <i> Master student </i><br>
 Astha finished her master thesis on <i>'Investigation of clathrin- mediated endocytosis in cancer metastasis using confocal and super-resolution microscopy'</i> in June 2022 (promotor). <br><br>
 <b>Lars Fever</b>, <i> Master student </i><br>
