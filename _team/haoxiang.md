@@ -2,7 +2,7 @@
 title: "Haoxiang Zhang"
 collection: team
 header:
-  teaser: Haoxiang.png
+  teaser: haoxiang.png
 tags: phd
 tagline: CSC fellowship <br> promotor
 date: 2022-10-01
