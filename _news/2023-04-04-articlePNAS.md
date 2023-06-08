@@ -3,7 +3,7 @@ title: "The article of Hongbo is finally out - and in PNAS!"
 date: 2023-04-04
 collection: news
 header:
-  teaser: PNAS.jpeg
+  teaser: PNAS.png
 ---
 
 Congratulations **Hongbo**, and all the other authors! This was truly a team effort, only possible in collaboration with  <a href="https://www.researchgate.net/lab/Paul-H-J-Kouwer-Lab"><u>Paul Kouwer</u></a>'s group, and with the support of the <a href="https://www.mech.kuleuven.be/en/bme/research/mechbio"><u>Matrix group</u></a>.

@@ -21,17 +21,17 @@ gallery:
   - url: Boris_PhD5.jpg
     image_path: Boris_PhD5.jpg
     alt: "image 5"
-  - url: Boris_PhD6.jpeg
-    image_path: Boris_PhD6.jpeg
+  - url: Boris_PhD6.png
+    image_path: Boris_PhD6.png
     alt: "image 6"
-  - url: Boris_PhD7.jpeg
-    image_path: Boris_PhD7.jpeg
+  - url: Boris_PhD7.png
+    image_path: Boris_PhD7.png
     alt: "image 7"
   - url: Boris_PhD8.jpeg
     image_path: Boris_PhD8.jpeg
     alt: "image 8"
-  - url: Boris_PhD9.jpeg
-    image_path: Boris_PhD9.jpeg
+  - url: Boris_PhD9.png
+    image_path: Boris_PhD9.png
     alt: "image 9"
 
 ---
