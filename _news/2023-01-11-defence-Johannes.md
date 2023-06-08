@@ -20,7 +20,7 @@ gallery:
 <p align= "justify">
 Congratulations <b>Johannes</b>! For the PhD and for the amazing presentation you gave <b>in Dutch!</b>
 <br>
-We were left with mix feelings of being proud and happy for you, and a bit sadness for letting you go 'across the fence', to the industry. I am 100% sure you will succeed in whatever you set your mind into. You were without a doubt one of the most hard working students, <i>even if the work was not always related to science </i>;)
+We were left with mix feelings of being proud and happy for you, and a bit sadness for letting you go across the fence, to the industry. I am 100% sure you will succeed in whatever you set your mind into. You were without a doubt one of the most hard working students, <i>even if the work was not always related to science </i>
 <br>
 
 <br>
