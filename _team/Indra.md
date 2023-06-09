@@ -3,8 +3,8 @@ title: "Indra van Zundert"
 collection: team
 header:
   teaser: indra.png
-tags: Alumni
-tagline: FWO fellowship <br> co-promotor
+tags: Honorary
+tagline: Post-doc <br> TU Eindhoven
 date: 2017-10-01
 subject: "Next-generation cancer therapy: gene editing meets nanotechnology"
 prom: Prof. Hiroshi Uji-i (promotor)

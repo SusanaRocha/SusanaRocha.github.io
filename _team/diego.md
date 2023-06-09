@@ -3,7 +3,7 @@ title: "Diego Herrera Ochoa"
 collection: team
 header:
   teaser: person.png
-tags: inter
+tags: alumni
 tagline: Promotor
 date: 2022-09-15
 subject: "Evaluation of nanoparticle uptake in 2D and 3D cell models"

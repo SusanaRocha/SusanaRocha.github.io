@@ -3,7 +3,7 @@ title: "Irene Sevilla Carrillo"
 collection: team
 header:
   teaser: person.png
-tags: inter
+tags: alumni
 tagline: Promotor
 date: 2022-08-01
 subject: "Fate of nanoparticles in 3D spheroids"

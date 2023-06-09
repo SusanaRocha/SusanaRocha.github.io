@@ -80,6 +80,19 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 
 
 <hr-bold>
+<h2>Honorary members of the team</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team reversed %}
+    {% if post.tags contains 'Honorary' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
+<hr-bold>
 <h2>Alumni</h2>
 <hr><br>
 <b>Dr. Johannes Vandaele</b>, <i> PhD student </i><br>

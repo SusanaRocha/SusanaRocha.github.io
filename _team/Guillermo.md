@@ -3,8 +3,8 @@ title: "Guillermo Solis"
 collection: team
 header:
   teaser: guille2.png
-tags: Alumni
-tagline: FWO fellowship <br> co-promotor
+tags: Honorary
+tagline: Post-doc <br> Instituto de Salud Carlos III
 date: 2017-10-01
 subject: "Combined proteomics and single-molecule fluorescence based profiling of metastatic colorectal cancer markers"
 prom: Prof. Johan Hofkens
