@@ -53,6 +53,19 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 </div>
 
 <hr-bold>
+<h2>Research Specialists</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team reversed %}
+    {% if post.tags contains 'specialist' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
+<hr-bold>
 <h2>Master students</h2>
 <hr><br>
 <div class="grid">
