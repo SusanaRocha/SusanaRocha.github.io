@@ -11,5 +11,5 @@ prom: Johan Hofkens
 email: michie.deras@kuleuven.be
 ---
 <p align= "justify">
-While Michiel's PhD is focused on the generation of ammnia using electrochemistry, within the RochaLab, he is in charge of Friday drinks and Thursday sandwiches.<br>
-He pays of a spot in this website with babybels :)
+While Michiel's PhD is focused on the generation of ammonia using electrochemistry, within the RochaLab, he is in charge of Friday drinks and Thursday sandwiches.<br>
+He pays of a spot on this website with babybels :)
