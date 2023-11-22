@@ -2,14 +2,12 @@
 title: "Steven Huysecom"
 collection: team
 header:
-  teaser: person.png
-tags: master
-tagline: Promotor
-date: 2022-09-22
-subject: "Feel the force: using fluorescence microscopy to quantify cellular forces"
-email: steven.huysecom@student.kuleuven.be
+  teaser: steven.jpg
+tags: phd
+tagline: promotor
+date: 2023-11-01
+subject: "Shedding Light on Polymer Dynamics: A Multi-Scale Approach"
+email: steven.huysecom@kuleuven.be
 ---
 <p align= "justify">
-Cellular communication proceeds at different levels: chemically through a wide variety of cytokines, and physically, through cell-cell interactions and through interactions with the extracellular matrix (ECM) that surrounds the cells. By pushing and pulling the ECM, cells continuously sense the dynamic mechanical cues from their microenvironment and generate physical feedback.
-At the molecular level, cells sense and transmit forces with the matrix through the so-called focal adhesion complexes that link the ECM to the cellular cytoskeleton. The amplitude of the applied cellular forces, and their propagation through the ECM, depends on both the biochemical and the mechanical properties of the matrix. Taking advantage of a unique synthetic material, and advanced microscopy-based methods, we can perform a systematic study of the influence of the matrix on cellular forces.
- In this project, the student will use fluorescence microscopy and molecular force sensors to quantify cell-matrix and cell-cell interactions. This will require the use of FRET-based sensors (protein or DNA), microfluidics and biomimetic hydrogels.
+Polymers are ubiquitous in our society and play a critical role in numerous applications, from everyday items to advanced technologies. Their broad range of properties and functions makes them incredibly valuable. However, the rational design of polymers with specific properties that can fulfil desired functions remains a challenge in polymer chemistry. Despite advances in computational models, it remains difficult to link the molecular architecture of polymer networks with macroscopic properties. This is partly due to a lack of experimental data at the molecular, nanometre, and micrometre scales, and the limited methods available to measure heterogeneous systems at these scales. To address this challenge, this proposal will develop and apply a range of microscopy-based techniques to explore molecular and network dynamics, from the molecular to the micron scale. The results obtained will be used to refine computational models and have the potential to establish a link between micro and macroscopic properties. This will advance our understanding of how the molecular architecture of a polymer network is linked to mechanical properties, and in turn, inform the rational design of new polymers for advanced applications.

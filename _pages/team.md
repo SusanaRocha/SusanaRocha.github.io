@@ -108,6 +108,12 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <hr-bold>
 <h2>Alumni</h2>
 <hr><br>
+<b>Esther Ocket</b>, <i> Master student </i><br>
+Esther finished her master thesis on <i>'Super-resolution investigation of integrin adhesion structures in colorectal cancer metastasis'</i> in June 2023 (promotor). <br><br>
+<b>Mathilda Corcoles</b>, <i> Master student </i><br>
+Mathilda finished her master thesis on <i>'Imaging of the binding and signaling cascade between immunofilaments and T cells'</i> in June 2023 (promotor). <br><br>
+<b>Sofie Berden</b>, <i> Master student </i><br>
+Sofie finished her master thesis on <i>'The Influence of Surface charge, Shape and Size on the Internalization of Gold Nanoparticles in 2D and 3D cell models'</i> in June 2023 (promotor). <br><br>
 <b>Dr. Johannes Vandaele</b>, <i> PhD student </i><br>
 Johannes finished his PhD entitled <i> Structural and thermo-mechanical characterization of new biomimetic materials </i> in January 2023 (co-promotor, <a href="{{site.github.url}}/team/Johannes"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Dr. Guillermo Solis</b>, <i> PhD student </i><br>

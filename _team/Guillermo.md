@@ -3,14 +3,15 @@ title: "Guillermo Solis"
 collection: team
 header:
   teaser: guille2.png
-tags: Honorary
-tagline: Post-doc <br> Instituto de Salud Carlos III
-date: 2017-10-01
-subject: "Combined proteomics and single-molecule fluorescence based profiling of metastatic colorectal cancer markers"
-prom: Prof. Johan Hofkens
-email: guillermo.solis@kuleuven.be
+tags: post-doc
+tagline: FWO fellowship <br> promotor
+date: 2023-10-01
+subject: "Oncoproteomics and 3D culture as tools to understand and prevent CRC metastasis"
+prom:
+email: guillermo.solisfernandez@kuleuven.be
 ---
-Colorectal cancer is Colorectal cancer (CRC) is a major health problem in developed countries. Patients are mainly diagnosed at advanced stages of the disease where they present metastatic wounds, metastasis is the migration of tumoral cells from their original niche to colonize other tissues, and the survival rate is very low. Prevention and early diagnosis are pivotal tools in fighting against this disease. Proteomics, the study of the differential expression of proteins in different cells, has provided with many diagnostic markers as it can identify proteins that are specifically expressed by cancer cells compared with normal cells, and also between metastatic and nonmetastatic variants of a same tumor. Our project aims to investigate the relation between some of the identified markers and the appearance of metastasis, as well to understand the molecular mechanisms behind the induction of metastasis so that a possible therapeutical target can be found. To do so, we will also develop a new microscopy technique that will allow for mapping the interactions of the altered proteins. For this project, we will mainly focus in the study of the metastasis towards liver that some forms of colorectal cancers have shown. Nevertheless, as part of this project we will also extend the proteomic characterization of the metastasis to lymph nodes to try to find new early diagnostic markers and a possible cause behind the onset of metastasis.
+Cancer metastasis is the main cause of cancer associated death, the dissemination and spreading of tumoral cells from its original niche makes treatment and eradication of the malignancy almost impossible. We want to gain further insights into colorectal cancer (CRC) metastasis and this way find new diagnostic tools that allow for the early detection of CRC tumours before they have the chance to colonize other tissues. We will evaluate the diagnostic potential of proteins identified as upregulated in CRC metastatic cell lines during my PhD. We will evaluate their diagnostic and screening capacity using sera of control and CRC patients as well as patient tissue microarrays. In parallel, to understand the role of these markers in the progression and onset of CRC we will edit and label them to follow their activity real-time in living cells.
+Additionally, we will study the role of the mechanical environment around CRC tumour cells in the progression of the disease and try to understand how cells sense and are affected by mechanical cues. Furthermore, we will also characterize at the proteomic level CRC cells differentiated in 3D to discover new possible markers that might have been overlooked so far because of the usage of 2D culture conditions. Taking advantage of the tuneable and biomimetic properties of synthetic hydrogels, we will investigate how the mechanical and chemical cues of the matrix can influence metastasis.
 
 <h2> Publications </h2>
 {% for post in site.publications reversed %}

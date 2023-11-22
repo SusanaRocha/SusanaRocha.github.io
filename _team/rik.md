@@ -2,7 +2,7 @@
 title: "Rik Nuyts"
 collection: team
 header:
-  teaser: rik.png
+  teaser: rik2.png
 tags: specialist
 subject:
 prom:
