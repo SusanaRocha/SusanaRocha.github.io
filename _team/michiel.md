@@ -6,7 +6,7 @@ header:
 tags: Honorary
 tagline: PhD student <br> @ Johan Hofkens
 date: 2019-10-02
-photo: michiel2.jpeg
+photo: michiel2.png
 subject: "Electrochemical ammonia generation"
 prom: Johan Hofkens
 email: michie.deras@kuleuven.be
