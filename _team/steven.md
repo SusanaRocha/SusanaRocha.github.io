@@ -2,8 +2,9 @@
 title: "Steven Huysecom"
 collection: team
 header:
-  teaser: steven.jpg
+  teaser: steven2.png
 tags: phd
+photo: steven.jpg
 tagline: promotor
 date: 2023-11-01
 subject: "Shedding Light on Polymer Dynamics: A Multi-Scale Approach"

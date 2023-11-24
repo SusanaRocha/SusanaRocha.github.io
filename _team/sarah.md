@@ -2,7 +2,7 @@
 title: "Sarah Vorsselmans"
 collection: team
 header:
-  teaser: sarah.png
+  teaser: sarah2.png
 tags: phd
 tagline: FLOF grant <br>promotor
 date: 2022-10-01

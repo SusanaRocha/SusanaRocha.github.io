@@ -66,7 +66,11 @@ layout: default
           <hr-bold>
           <br>
           <div class='pull-right' style='width: 25%; height: 210px; padding: 5px; object-fit: contain;'>
+            {% if page.photo %}
+           <img src='{{ page.photo | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
+            {% else %}
            <img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
+            {% endif %}
           </div>
 
             <p> <b>{{ page.subject }}</b>

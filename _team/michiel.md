@@ -2,10 +2,11 @@
 title: "Michiel De Ras"
 collection: team
 header:
-  teaser: michiel2.png
+  teaser: michiel3.png
 tags: Honorary
 tagline: PhD student <br> @ Johan Hofkens
 date: 2019-10-02
+photo: michiel2.jpeg
 subject: "Electrochemical ammonia generation"
 prom: Johan Hofkens
 email: michie.deras@kuleuven.be
