@@ -2,9 +2,9 @@
 title: "Michiel De Ras"
 collection: team
 header:
-  teaser: michiel3.png
+  teaser: michiel.png
 tags: Honorary
-tagline: PhD student <br> @ Johan Hofkens
+tagline: PhD student <br> @ HofkensLab
 date: 2019-10-02
 photo: michiel2.png
 subject: "Electrochemical ammonia generation"

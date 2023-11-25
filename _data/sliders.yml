@@ -16,6 +16,10 @@
   bullets: True
   captions: True
   images:
+    - src: /images/groupNov23.png
+      alt: Group foto 2023/24 - before the cocktail party...
+    - src: /images/banner.jpg
+      alt: Imaging organoids
     - src: /images/group-indra.jpeg
       alt: the group & Co. - 27th June 2022
     - src: /images/PIC-STED.jpg
@@ -24,8 +28,7 @@
       alt: Cell remodelling the matrix
     - src: /images/super-res-comp.jpg
       alt: Super-resolution fluroescence imaging
-    - src: /images/banner.jpg
-      alt: Imaging organoids
+
   settings:
     height:  "'auto'"
     interval: 5000
