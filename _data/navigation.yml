@@ -33,45 +33,100 @@ main:
 #    url: /teaching/
 
 Projs:
-  - title:
+  - title: Research Projects
+    url: /projects
     children:
-      - title: "Project Overview"
-        url: /projects/
-  - title: Main Research Topics
-    children:
-      - title: "Structure of Biomimetic Materials"
-        url: /projects/struct-matrix/
-      - title: "Cellular adhesion in 3D matrices"
-        url: /projects/cell-adhesion/
-      - title: "Organoids: models for cell communication"
-        url: /projects/organoids/
-      - title: "New drug delivery systems"
-        url: /projects/DDS/
-      - title: "Protein-protein Interactions"
-        url: /projects/PPIs/
-      - title: "Rheology at the micrometer scale"
-        url: /projects/rheology/
-      - title: "Polymer Reptation in 3D"
-        url: /projects/reptation/
+    - title: Main Research Topics
+      url: /projects
+      anchor: "#Topics"
+    - title: Research Networks
+      url: /projects
+      anchor: "#Networks"
+    - title: Collaborations
+      url: /projects
+      anchor: "#Collaborations"
 
-  - title: Research Networks
+Team:
+  - title: Research Team
+    url: /team
     children:
-      - title: "SuperCol"
-        url: /projects/SuperCol/
-      - title: "OrganADVANCE"
-        url: /projects/OrganADVANCE/
+    - title: Principal Investigator
+      url: /team
+      anchor: "#PI"
+    - title: Post-doctoral researchers
+      url: /team
+      anchor: "#PostDoc"
+    - title: PhD students
+      url: /team
+      anchor: "#PhD"
+    - title: Research Specialists
+      url: /team
+      anchor: "#TechStaff"
+    - title: Master Students
+      url: /team
+      anchor: "#MasterStu"
+    - title: Internship & Exchange students
+      url: /team
+      anchor: "#OtherStudents"
+    - title: Alumni
+      url: /team
+      anchor: "#Alumni"
 
-  - title: Other Collaborations
+Pubs:
+  - title: Research Articles
+    url: /publications
     children:
-      - title: "Single cell manipulation by endoscopy"
-        url: /projects/endoscopy/
-      - title: "Imaging single HIV virions"
-        url: /projects/HIV/
-      - title: "Cell signalling: probes and methods"
-        url: /projects/cell-signal/
-      - title: "Correlative AFM and Fluorescence Microscopy"
-        url: /projects/FluoAFM/
+    - title: "2024"
+      url: /publications
+      anchor: "#y2024"
+    - title: "2023"
+      url: /publications
+      anchor: "#y2023"
+    - title: "2022"
+      url: /publications
+      anchor: "#y2022"
+    - title: "2021"
+      url: /publications
+      anchor: "#y2021"
+    - title: "2020"
+      url: /publications
+      anchor: "#y2020"
+    - title: "2019"
+      url: /publications
+      anchor: "#y2019"
+    - title: "2018"
+      url: /publications
+      anchor: "#y2018"
+    - title: "2017"
+      url: /publications
+      anchor: "#y2017"
+    - title: "2016"
+      url: /publications
+      anchor: "#y2016"
+    - title: "2015"
+      url: /publications
+      anchor: "#y2015"
+    - title: "2014 & before"
+      url: /publications
+      anchor: "#y2014"
 
+  - title: Bookchapters
+    url: /publications
+    anchor: "#bookchapter"
+
+Talks:
+  - title: Talks & Posters
+    url: /talks
+    children:
+    - title: "Talks Prof. Rocha"
+      url: /talks
+      anchor: "#TalksPI"
+    - title: "Talks group members"
+      url: /talks
+      anchor: "#TalksGroup"
+    - title: "Posters"
+      url: /talks
+      anchor: "#Posters"
 
 Tech:
   - title: Molecular Organization at the nanoscale

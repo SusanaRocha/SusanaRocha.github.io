@@ -9,6 +9,9 @@ prom: Global PhD Partnership (Melbourne University)
 tagline: Global PhD Partnerships <br> promotor
 date: 2021-10-01
 email: maria.bravo@student.kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 <p align= "justify">
 

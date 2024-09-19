@@ -1,10 +1,10 @@
 ---
 title: Flat clathrin lattices are linked to metastatic potential in colorectal cancer
 collection: publications
-date: 2023-01-12
-venue:
+date: 2023-08-18
+venue: iScience
 authors: 'Charlotte Cresens, Guillermo Solis-Fernandez, Astha Tiwari, Rik Nuyts, Johan Hofkens, Rodrigo Barderas, Susana Rocha'
-paperurl:
+paperurl: https://www.cell.com/iscience/fulltext/S2589-0042(23)01404-9?uuid=uuid%3A07e0386d-3607-4c52-9dec-0b374d4a8e45
 repo: 'bioRxiv'
 repourl: https://www.biorxiv.org/content/10.1101/2023.01.12.520576v1.abstract
 rgate: https://www.researchgate.net/publication/367141659_Flat_clathrin_lattices_are_linked_to_metastatic_potential_in_colorectal_cancer

@@ -8,6 +8,9 @@ tagline: Global PhD Partnerships <br> promotor
 date: 2022-03-01
 subject: "Advanced cell models and multifunctional nanomaterials for light-mediated cancer therapies"
 email: "samanthaz@student.unimelb.edu.au"
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">

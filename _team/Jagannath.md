@@ -8,6 +8,9 @@ tagline: OptoMat project <br> co-promotor
 date: 2022-09-01
 subject: "Optical binding of nanoparticles outside the photon beam"
 email: jagannath.satpathy@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">

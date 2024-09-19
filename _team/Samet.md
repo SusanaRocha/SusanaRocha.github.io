@@ -8,6 +8,9 @@ subject: "Cells under pressure: the role of mechanical cues on cellular force tr
 tagline: FWO fellowship <br> promotor
 date: 2021-04-01
 email: samet.aytekin@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">

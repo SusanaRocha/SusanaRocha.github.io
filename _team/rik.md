@@ -9,4 +9,7 @@ prom:
 tagline: Microscopy specialist
 date: 2005-01-01
 email: rik.nuyts@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---

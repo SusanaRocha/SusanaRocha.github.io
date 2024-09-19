@@ -9,6 +9,9 @@ date: 2020-07-01
 prom: SuperCol (Marie-Curie Innovative Training Network)
 subject: "Tracking the Biological Fate of Functional Nanoparticles Using Fluorescence Microscopy"
 email: pierre.cybulski@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 <p align= "justify">
 The use of nanotechnology in cancer therapy has attracted growing attention over the past decade. Many drug nanocarriers offering considerable advantages over conventional chemotherapy have been developed. Although binding strength and selectivity of nanocarriers with cell membranes can be controlled and has been investigated, the selective interaction with membrane receptors in e.g. drug delivery builds upon a sequence of steps, ranging from cellular uptake to apoptosis. Particles designed for this application, need to be evaluated for each and all of these using a realistic model.<br>

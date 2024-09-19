@@ -3,11 +3,14 @@ title: "Charlotte Cresens"
 collection: team
 header:
   teaser: charlotte.png
-tags: phd
+tags: alumni
 tagline: FWO fellowship <br> promotor
 date: 2020-07-01
 subject: "Cancer cells on the move: the role of cellular adhesion complexes and microenvironment in metastasis"
 email: charlotte.cresens@student.kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 <p align= "justify">
 In the 21st century, cancer is expected to grow into the leading cause of death in every country. The majority of cancer-associated deaths arise from cancer metastasis, a multistep-process whereby cancer cells adapt, break free from the primary tumor site and migrate to colonize other tissues.

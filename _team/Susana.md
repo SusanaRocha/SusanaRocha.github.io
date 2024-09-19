@@ -7,6 +7,9 @@ tags: PI
 tagline: Assistant Professor
 date: 2019-08-01
 email: 'susana.rocha@kuleuven.be'
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 

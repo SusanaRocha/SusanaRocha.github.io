@@ -1,10 +1,10 @@
 ---
-title: "FRET-based force sensors"
+title: "FRET-based tension sensors"
 collection: projects
 tags: individual project
 sidebar:
   nav: "Projs"
-date: 1907-01-01
+date: 1902-01-01
 header:
   teaser: forcesensors.png
 ---

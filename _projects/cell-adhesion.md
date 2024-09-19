@@ -1,8 +1,8 @@
 ---
-title: "Cellular adhesion in 3D matrices"
+title: "Cellular adhesion (2D and 3D)"
 collection: projects
 tags: individual project
-date: 1904-01-01
+date: 1900-01-01
 sidebar:
   nav: "Projs"
 header:

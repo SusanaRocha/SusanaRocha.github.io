@@ -8,6 +8,9 @@ tagline: co-promotor
 date: 2023-03-01
 subject: "Nanoparticles-mediated phototherapies in 3D cancer models"
 email: sandra.krzyzowska@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">

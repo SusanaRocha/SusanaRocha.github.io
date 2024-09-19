@@ -1,5 +1,5 @@
 ---
-title: "New Drug delivery systems"
+title: "New drug delivery systems"
 collection: projects
 tags: individual project
 sidebar:

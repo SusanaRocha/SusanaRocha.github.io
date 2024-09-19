@@ -9,6 +9,9 @@ prom: Prof. Zeger Debyser  (promotor)
 tagline: co-promotor
 date: 2021-01-01
 email: analucia.dasilvacunha@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">

@@ -8,6 +8,9 @@ tagline: CSC fellowship <br> promotor
 date: 2022-10-01
 subject: "DNA-functionalized fibrous hydrogels to quantify cell-matrix interactions"
 email: haoxiang.zhang@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">

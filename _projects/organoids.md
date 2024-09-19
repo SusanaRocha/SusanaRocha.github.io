@@ -1,10 +1,10 @@
 ---
-title: "Organoids: models for cell communication"
+title: "Advanced 3D cell models"
 collection: projects
 tags: individual project
 sidebar:
   nav: "Projs"
-date: 1906-01-01
+date: 1903-01-01
 header:
   teaser: organoid.png
 ---

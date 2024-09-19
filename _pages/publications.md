@@ -2,7 +2,9 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "Pubs"
 ---
 {% include base_path %}
 
@@ -28,7 +30,7 @@ You can find the complete publication list on <a href="https://scholar.google.be
 {% endfor %}
 
 
-<h2><span style="color:gray"> Bookchapters </span></h2>
+<h2 id="bookchapter"><span style="color:gray"> Bookchapters </span></h2>
 {% for post in site.bookchapters reversed %}
   {% include archive-single-pub.html %}
 {% endfor %}

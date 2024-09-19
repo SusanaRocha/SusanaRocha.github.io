@@ -12,8 +12,8 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.header.teaser %}
     <div class='pull-right' style='width: 30%; height: 220px; padding: 10px; object-fit: contain;'>
-     <img src='{{ post.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 220px; margin-left: 10px; margin-right: auto;' >
-    </div>
+     <center><img src='{{ post.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 220px; margin-left: 10px; margin-right: auto;' >
+    </center></div>
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">

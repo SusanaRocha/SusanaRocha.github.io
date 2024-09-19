@@ -6,7 +6,7 @@ header:
 tags: individual project
 sidebar:
   nav: "Projs"
-date: 1093-01-01
+date: 1904-01-01
 ---
 A large number of natural and synthetic hydrogels are currently used for tissue engineering and regenerative medicine. Over the last decade, there has been an increasing awareness of the role of material properties of the substrates in guiding cellular behaviour. This has inspired chemists to create a new generation of materials with mechanical properties closed to that of natural occurring biopolymer networks. Recently, the groups of <b>Prof. Alan Rowan </b>(Queens University, Australia) and <b>Prof. Paul Kouwer</b> (Radboud University of Nijmegen, The Netherlands) were able to develop a fully synthetic material that mimics in all aspects the gels prepared from cellular filaments. These synthetics gels are prepared from **polyisocyanopeptides (PICs)** grafted with oligo(ethylene glycol) chains and share structural features of biopolymers: their helical structure renders the polymer molecules relatively stiff while the interaction between the side chains enable the formation of bundles or fibrils of defined dimensions. The triethylene glycol side chains attached to the polymer backbone render the material thermo-responsive (it will gel upon heating beyond 20 °C and become liquid again upon cooling). Despite being characterized extensively in bulk, the fundamental dynamics and the relation between the macroscopic properties and the microscopic structure at cellular length scales of PIC-based hydrogels remains obscure.
 <br/>

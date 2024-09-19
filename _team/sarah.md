@@ -8,6 +8,9 @@ tagline: FLOF grant <br>promotor
 date: 2022-10-01
 subject: "Smart hydrogels for optically mapping forces in 3D cancer models"
 email: sarah.vorsselmans@kuleuven.be
+sidebar:
+  nav: "Team"
+author_profile: false
 ---
 
 <p align= "justify">
