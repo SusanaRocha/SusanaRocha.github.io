@@ -2,7 +2,7 @@
 title: "Boris Louis"
 collection: team
 header:
-  teaser: boris.jpg
+  teaser: boris.png
 tags: post-doc
 tagline: FWO fellowship <br> co-promotor
 date: 2023-01-01
