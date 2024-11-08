@@ -130,7 +130,7 @@ Siska finished her master thesis on <i>'Implementation and optimization of optog
 <b>Mehak Sharma</b>, <i> Master student </i><br>
 Mehak finished her master thesis on <i>'Multiplane Dark-field Quantitative Phase Imaging For 4D Cell Microscopy'</i> in June 2024 (promotor). <br><br>
 <b>Dr. Quinten Coucke</b>, <i> PhD student </i><br>
-Quinten finished his PhD entitled <i> Structural and thermo-mechanical characterization of new biomimetic materials </i> in January 2024 (co-promotor, <a href="{{site.github.url}}/team/Quinten"><span style="color:gray">link to archived page</span></a>)<br><br>
+Quinten finished his PhD entitled <i> From theory to practice: phasor-based insights into FRET-sensing </i> in January 2024 (co-promotor, <a href="{{site.github.url}}/team/Quinten"><span style="color:gray">link to archived page</span></a>)<br><br>
 
 <b>Esther Ocket</b>, <i> Master student </i><br>
 Esther finished her master thesis on <i>'Super-resolution investigation of integrin adhesion structures in colorectal cancer metastasis'</i> in June 2023 (promotor). <br><br>
