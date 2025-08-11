@@ -1,5 +1,5 @@
 ---
-title: "(3) Distribution, Organization, and Dynamics of EGF Receptor in the Plasma Membrane Studied by Super-Resolution Imaging"
+title: "Distribution, Organization, and Dynamics of EGF Receptor in the Plasma Membrane Studied by Super-Resolution Imaging"
 collection: bookchapters
 date: 2016-11-03
 venue: 'Super-Resolution Imaging in Biomedicine'

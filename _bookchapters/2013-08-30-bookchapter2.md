@@ -1,5 +1,5 @@
 ---
-title: "(2) Photoswitchable Fluorescent Proteins for Superresolution Fluorescence Microscopy Circumventing the Diffraction Limit of Light"
+title: "Photoswitchable Fluorescent Proteins for Superresolution Fluorescence Microscopy Circumventing the Diffraction Limit of Light"
 collection: bookchapters
 tagline: 'First author paper.'
 date: 2013-08-30

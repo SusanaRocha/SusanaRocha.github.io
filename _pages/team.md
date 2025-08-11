@@ -79,7 +79,9 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <div class="wrapper">
   {% for post in site.team reversed %}
     {% if post.tags contains 'master' %}
+      {% if post.date < site.time %}
       {% include archive-single-proj.html type="grid" %}
+    {% endif %}
     {% endif %}
   {% endfor %}
 </div>
@@ -118,7 +120,19 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 <a id="Alumni" data-hs-anchor="true"></a>
 <h2>Alumni</h2>
 <hr><br>
-<b>Dr. Charlotte Cresens</b>, <i> PhD student </i><br>
+<b> 🎓 Dr. Ana Cunha</b>, <i> PhD student </i><br>
+Ana finished her PhD entitled <i> 'Unravelling the contribution of the Micro-environment in Chronic Lung Diseases' </i> in March 2025 (c0-promotor, <a href="{{site.github.url}}/team/AnaCunha"><span style="color:gray">link to archived page</span></a>).<br><br>
+<b>Hendrik Cuylaerts</b>, <i> Master student </i><br>
+Hendrik finished his master thesis on <i>'Optimization of a molecular tension sensor for measuring cell-cell and cell-ECM forces in CCM disease'</i> in June 2025 (promotor). <br><br>
+<b>Giel Vankevelaer</b>, <i> Master student </i><br>
+Giel finished his master thesis on <i>'Investigation of the mechanobiology of Cancer Associated Fibroblasts'</i> in June 2025 (promotor). <br><br>
+<b>Carolina Sato De Oliveira</b>, <i> Master student </i><br>
+Carolina finished her master thesis on <i>'ptimizing Rose Bengal-Loaded Mesoporous Silica Nanoparticles for High-Efficiency Photodynamic Therapy'</i> in June 2025 (promotor). <br><br>
+<b>Naomi Duggan</b>, <i> Master student </i><br>
+Naomi finished her master thesis on <i>'Structural hierarchies in cell-ECM dynamics: Investigation in polyisocyanide hydrogels'</i> in June 2025 (promotor). After that, she started her PhD, in collaboration with Dr. James Hutchison, in the University of Melbourne. <br><br>
+<b> Pierre Cybulski</b>, <i> PhD student </i><br>
+Pierre worked on <i> 'Tracking the biological fate of functional colloids in situ and in living cells' </i> until November 2024 (promotor, <a href="{{site.github.url}}/team/Pierre"><span style="color:gray">link to archived page</span></a>). <br><br>
+<b> 🎓 Dr. Charlotte Cresens</b>, <i> PhD student </i><br>
 Charlotte finished her PhD entitled <i> 'Exploring colorectal cancer metastasis:
 proteomic insights enlightened' </i> in August 2024 (promotor, <a href="{{site.github.url}}/team/Charlotte"><span style="color:gray">link to archived page</span></a>). Charlotte is currently working at the VIB BioImaging Core in Leuven.<br><br>
 <b>Arthur Talpe</b>, <i> Master student </i><br>
@@ -129,7 +143,7 @@ Bert finished his master thesis on <i>'Development and evaluation of a molecular
 Siska finished her master thesis on <i>'Implementation and optimization of optogenetic tools in mammalian cells.'</i> in June 2024 (promotor). <br><br>
 <b>Mehak Sharma</b>, <i> Master student </i><br>
 Mehak finished her master thesis on <i>'Multiplane Dark-field Quantitative Phase Imaging For 4D Cell Microscopy'</i> in June 2024 (promotor). <br><br>
-<b>Dr. Quinten Coucke</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Quinten Coucke</b>, <i> PhD student </i><br>
 Quinten finished his PhD entitled <i> Structural and thermo-mechanical characterization of new biomimetic materials </i> in January 2024 (co-promotor, <a href="{{site.github.url}}/team/Quinten"><span style="color:gray">link to archived page</span></a>)<br><br>
 
 <b>Esther Ocket</b>, <i> Master student </i><br>
@@ -138,11 +152,11 @@ Esther finished her master thesis on <i>'Super-resolution investigation of integ
 Mathilda finished her master thesis on <i>'Imaging of the binding and signaling cascade between immunofilaments and T cells'</i> in June 2023 (promotor). <br><br>
 <b>Sofie Berden</b>, <i> Master student </i><br>
 Sofie finished her master thesis on <i>'The Influence of Surface charge, Shape and Size on the Internalization of Gold Nanoparticles in 2D and 3D cell models'</i> in June 2023 (promotor). <br><br>
-<b>Dr. Johannes Vandaele</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Johannes Vandaele</b>, <i> PhD student </i><br>
 Johannes finished his PhD entitled <i> Structural and thermo-mechanical characterization of new biomimetic materials </i> in January 2023 (co-promotor, <a href="{{site.github.url}}/team/Johannes"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Boris Louis </b>, <i> PhD student </i><br>
+<b>🎓 Dr. Boris Louis </b>, <i> PhD student </i><br>
 Boris finished his PhD entitled <i> Multi-dimensional imaging : A tool to unravel material properties at the nanoscale </i> in December 2022 (co-promotor). After his PhD, Boris received a FWO post-doctoral scholarship. <br><br>
-<b>Dr. Guillermo Solis</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Guillermo Solis</b>, <i> PhD student </i><br>
 Guillermo finished his PhD entitled <i> Imaging and proteomics-based analysis of colorectal cancer metastasis </i> in September 2022 (co-promotor). After a post-doctoral stay at the group of Prof. Francisco Monroy (Complutense University of Madrid, SP), Guillermo re-joined the group (FWO post-doctoral fellowship)<br><br>
 <b>Astha Tiwari</b>, <i> Master student </i><br>
 Astha finished her master thesis on <i>'Investigation of clathrin- mediated endocytosis in cancer metastasis using confocal and super-resolution microscopy'</i> in June 2022 (promotor). <br><br>
@@ -150,20 +164,20 @@ Astha finished her master thesis on <i>'Investigation of clathrin- mediated endo
 Lars finished his internship on <i>'Effect of substrate stiffness on the cellular uptake of nanoparticles'</i> in June 2022 (promotor). <br><br>
 <b>Fábio Gonçalves</b>, <i> Master student </i><br>
 Fábio finished his Erasmus + internship on <i>'Investigating the Hofmeister Effect on Polyisocyanopeptide Gels'</i> in June 2022 (co-promotor). <br><br>
-<b>Dr. Indra Van Zundert</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Indra Van Zundert</b>, <i> PhD student </i><br>
 Indra finished her PhD entitled <i> Bringing Drug Delivery Systems into the Third Dimension </i> in June 2022 (co-promotor). After a post-doctoral stay at the group of Prof. Tom de Greef (TU Eindhoven, NL), Indra re-joined the group (FWO post-doctoral fellowship)<br><br><b>
 Dr. Aline Acke</b>, <i> PhD student </i><br>
 Aline finished her PhD entitled <i> Studying an Array of Biological Questions at the Nanoscale with Expansion Microscopy:
 From cells to viruses </i> in February 2022 (co-promotor, <a href="{{site.github.url}}/team/Aline"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Marisa Vanheusden</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Marisa Vanheusden</b>, <i> PhD student </i><br>
 Marisa finished her PhD entitled <i> Multiplexing spatially resolved omics with increased resolution: Development of an expansion microscopy platform </i> in December 2021 (co-promotor, <a href="{{site.github.url}}/team/marisa"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Laurens D'Huys</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Laurens D'Huys</b>, <i> PhD student </i><br>
 Laurens finished his PhD entitled <i> Optical DNA Mapping: The Super-Resolved Genomic Barcode</i> in September 2021(co-promotor, <a href="{{site.github.url}}/team/Laurens"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Danai Laskaratou</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Danai Laskaratou</b>, <i> PhD student </i><br>
 Danai finished her PhD entitled <i> Development of fluorescent protein-based strategies and microscopy techniques for cell signaling studies</i> in July 2021(co-promotor, <a href="{{site.github.url}}/team/Danai"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Monica Ricci</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Monica Ricci</b>, <i> PhD student </i><br>
 Monica finished her PhD entitled <i> Hands and Eyes on Single-cells: Silver Nanowire Endoscopy for Intracellular Delivery and Sensing</i> in January 2021(co-promotor, <a href="{{site.github.url}}/team/Monica"><span style="color:gray">link to archived page</span></a>)<br><br>
-<b>Dr. Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020 </i><br>
+<b>🎓 Dr. Kaizheng Liu (Max)</b>, <i> Post-doctoral researcher Jan-Nov 2020 </i><br>
 After a short research stay, Max join us to continue his work on the effect of non-linear mechanics on cell behaviour (<a href="{{site.github.url}}/team/Max"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>Stéphanie Geerts</b>, <i> Master student </i><br>
 Stéphanie finished her master thesis on <i>'The influence of the ECM on Cancer Associated Fibroblasts and cancer cell interplay'</i> in June 2021 (promotor). <br><br>
@@ -175,5 +189,5 @@ Laurens finished his master thesis on <i>'Quantifying the Förster resonance ene
 Maria joined our group as an Erasmus+ exchange student to work on the functionalization of nanoparticles for drug delivery. After finishing her master degree, she returned as a PhD student. <br><br>
 <b>Elfriede Heerwegh</b>, <i> Master student </i><br>
 Elfriede finished her master thesis on <i>'The role of cancer associated fibroblasts in tumor invasion'</i> in June 2019 (promotor). <br><br>
-<b>Dr. Herlinde Dekeersmaecker</b>, <i> PhD student </i><br>
+<b>🎓 Dr. Herlinde Dekeersmaecker</b>, <i> PhD student </i><br>
 Herlinde finished her PhD on <i>'Superresolution fluorescence microscopy based techniques for the study of signal transduction'</i> in February 2017 (co-promotor). <br><br>

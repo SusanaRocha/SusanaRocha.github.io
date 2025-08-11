@@ -3,7 +3,7 @@ title: "Ana Cunha"
 collection: team
 header:
   teaser: anacunha.jpg
-tags: phd
+tags: Alumni
 subject: "Cystic fibrosis is not only an ion channel defect - investigation of the role of senescence in chronic inflammation as a novel therapeutic strategy"
 prom: Prof. Zeger Debyser  (promotor)
 tagline: co-promotor

@@ -76,6 +76,9 @@ Pubs:
   - title: Research Articles
     url: /publications
     children:
+    - title: "2025"
+      url: /publications
+      anchor: "#y2025"
     - title: "2024"
       url: /publications
       anchor: "#y2024"
@@ -88,27 +91,9 @@ Pubs:
     - title: "2021"
       url: /publications
       anchor: "#y2021"
-    - title: "2020"
+    - title: "2020 & before"
       url: /publications
       anchor: "#y2020"
-    - title: "2019"
-      url: /publications
-      anchor: "#y2019"
-    - title: "2018"
-      url: /publications
-      anchor: "#y2018"
-    - title: "2017"
-      url: /publications
-      anchor: "#y2017"
-    - title: "2016"
-      url: /publications
-      anchor: "#y2016"
-    - title: "2015"
-      url: /publications
-      anchor: "#y2015"
-    - title: "2014 & before"
-      url: /publications
-      anchor: "#y2014"
 
   - title: Bookchapters
     url: /publications

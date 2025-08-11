@@ -3,7 +3,7 @@ title: "Michiel De Ras"
 collection: team
 header:
   teaser: michiel.png
-tags: Honorary
+tags: alumni
 tagline: PhD student <br> @ HofkensLab
 date: 2019-10-02
 photo: michiel2.png

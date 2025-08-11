@@ -3,8 +3,8 @@ title: "Giel Vankevelaer"
 collection: team
 header:
   teaser: person.png
-tags: master
-tagline: Promotor
+tags: Honorary
+tagline: Pre-doctoral student
 date: 2024-09-11
 subject: "Resolving Cellular Forces on Molecular Level"
 email: giel.vankevelaer@student.kuleuven.be
