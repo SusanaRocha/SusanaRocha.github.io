@@ -16,6 +16,8 @@
   bullets: True
   captions: True
   images:
+    - src: /images/defence-Charlotte.jpg
+      alt: Group foto Aug 2024 - PhD defence Charlotte
     - src: /images/groupNov23.png
       alt: Group foto 2023/24 - before the cocktail party...
     - src: /images/banner.jpg
