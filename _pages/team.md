@@ -165,8 +165,8 @@ Lars finished his internship on <i>'Effect of substrate stiffness on the cellula
 <b>Fábio Gonçalves</b>, <i> Master student </i><br>
 Fábio finished his Erasmus + internship on <i>'Investigating the Hofmeister Effect on Polyisocyanopeptide Gels'</i> in June 2022 (co-promotor). <br><br>
 <b>🎓 Dr. Indra Van Zundert</b>, <i> PhD student </i><br>
-Indra finished her PhD entitled <i> Bringing Drug Delivery Systems into the Third Dimension </i> in June 2022 (co-promotor). After a post-doctoral stay at the group of Prof. Tom de Greef (TU Eindhoven, NL), Indra re-joined the group (FWO post-doctoral fellowship)<br><br><b>
-Dr. Aline Acke</b>, <i> PhD student </i><br>
+Indra finished her PhD entitled <i> Bringing Drug Delivery Systems into the Third Dimension </i> in June 2022 (co-promotor). After a post-doctoral stay at the group of Prof. Tom de Greef (TU Eindhoven, NL), Indra re-joined the group (FWO post-doctoral fellowship)<br><br>
+<b>🎓 Dr. Aline Acke</b>, <i> PhD student </i><br>
 Aline finished her PhD entitled <i> Studying an Array of Biological Questions at the Nanoscale with Expansion Microscopy:
 From cells to viruses </i> in February 2022 (co-promotor, <a href="{{site.github.url}}/team/Aline"><span style="color:gray">link to archived page</span></a>)<br><br>
 <b>🎓 Dr. Marisa Vanheusden</b>, <i> PhD student </i><br>
