@@ -1,10 +1,10 @@
 ---
 title: Deciphering stiffness-driven changes in colorectal cancer by proteomics
 collection: publications
-date: 2024-10-16
-venue:
-authors: Ana Montero-Calle, Guillermo Solís Fernández, Behrad Shaghaghi, Lotte Gerrits, Paul Kouwer, Rodrigo Barderas, Susana Rocha
-paperurl:
+date: 2026-01-23
+venue: Molecular & Cellular Proteomics
+authors: Charlotte Cresens, Ana Montero-Calle, Guillermo Solís Fernández, Behrad Shaghaghi, Lotte Gerrits, Paul Kouwer, Rodrigo Barderas, Susana Rocha
+paperurl: https://www.sciencedirect.com/science/article/pii/S1535947626000101
 repo: 'bioRxiv'
 repourl: https://www.biorxiv.org/content/10.1101/2024.10.16.618701v1
 rgate:

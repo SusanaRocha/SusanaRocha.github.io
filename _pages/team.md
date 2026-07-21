@@ -87,6 +87,7 @@ We are always looking for talented and enthusiastic masters, PhD students and po
 </div>
 </div>
 
+<!---
 <hr-bold>
 <a id="OtherStudents" data-hs-anchor="true"></a>
 <h2>Internship & Exchange students</h2>
@@ -100,8 +101,9 @@ We are always looking for talented and enthusiastic masters, PhD students and po
   {% endfor %}
 </div>
 </div>
+-->
 
-
+<!---
 <hr-bold>
 <a id="Honorary" data-hs-anchor="true"></a>
 <h2>Honorary members of the team</h2>
@@ -115,19 +117,30 @@ We are always looking for talented and enthusiastic masters, PhD students and po
   {% endfor %}
 </div>
 </div>
+-->
 
 <hr-bold>
 <a id="Alumni" data-hs-anchor="true"></a>
 <h2>Alumni</h2>
 <hr><br>
+<b>Mats Sannen</b>, <i> Master student </i><br>
+Mats finished his master thesis on <i>'Advancing siRNA Gene Silencing with DNA Origami for Cancer Therapy'</i> in June 2026 (promotor). <br><br>
+<b>Hannah Van der Maelen</b>, <i> Master student </i><br>
+Hannah finished her master thesis on <i>'Quantitative Imaging of Intracellular Dynamics and Viscosity in Cancer Cells'</i> in June 2026 (co-promotor). <br><br>
+<b>Lotte Simons</b>, <i> Master student </i><br>
+Lotte finished her master thesis on <i>'Phenotypic Profiling of Melanoma Cell Lines and their Response to Cancer-Associated Fibroblast Secreted Factors'</i> in June 2026 (promotor). <br><br>
+<b>Tuana Karaarslan</b>, <i> Master student </i><br>
+Tuana finished her master thesis on <i>'Advancing Nanomaterial-Mediated Photodynamic Therapy for Cancer Treatment'</i> in June 2026 (promotor). <br><br>
+<b> 🎓 Dr. Maria Bravo</b>, <i> PhD student </i><br>
+Maria finished her PhD entitled <i> 'Improving Clinical Translatability of Nano-based Cancer Therapies' </i> in October 2025 (promotor, <a href="{{site.github.url}}/team/MariaBravo"><span style="color:gray">link to archived page</span></a>).After a short post-doctoral stay with us, Maria has returned to Protugal.<br><br>
 <b> 🎓 Dr. Ana Cunha</b>, <i> PhD student </i><br>
-Ana finished her PhD entitled <i> 'Unravelling the contribution of the Micro-environment in Chronic Lung Diseases' </i> in March 2025 (c0-promotor, <a href="{{site.github.url}}/team/AnaCunha"><span style="color:gray">link to archived page</span></a>).<br><br>
+Ana finished her PhD entitled <i> 'Unravelling the contribution of the Micro-environment in Chronic Lung Diseases' </i> in March 2025 (co-promotor, <a href="{{site.github.url}}/team/AnaCunha"><span style="color:gray">link to archived page</span></a>).<br><br>
 <b>Hendrik Cuylaerts</b>, <i> Master student </i><br>
 Hendrik finished his master thesis on <i>'Optimization of a molecular tension sensor for measuring cell-cell and cell-ECM forces in CCM disease'</i> in June 2025 (promotor). <br><br>
 <b>Giel Vankevelaer</b>, <i> Master student </i><br>
 Giel finished his master thesis on <i>'Investigation of the mechanobiology of Cancer Associated Fibroblasts'</i> in June 2025 (promotor). <br><br>
 <b>Carolina Sato De Oliveira</b>, <i> Master student </i><br>
-Carolina finished her master thesis on <i>'ptimizing Rose Bengal-Loaded Mesoporous Silica Nanoparticles for High-Efficiency Photodynamic Therapy'</i> in June 2025 (promotor). <br><br>
+Carolina finished her master thesis on <i>'Optimizing Rose Bengal-Loaded Mesoporous Silica Nanoparticles for High-Efficiency Photodynamic Therapy'</i> in June 2025 (promotor). <br><br>
 <b>Naomi Duggan</b>, <i> Master student </i><br>
 Naomi finished her master thesis on <i>'Structural hierarchies in cell-ECM dynamics: Investigation in polyisocyanide hydrogels'</i> in June 2025 (promotor). After that, she started her PhD, in collaboration with Dr. James Hutchison, in the University of Melbourne. <br><br>
 <b> Pierre Cybulski</b>, <i> PhD student </i><br>

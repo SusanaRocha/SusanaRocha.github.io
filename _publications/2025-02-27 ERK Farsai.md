@@ -1,10 +1,10 @@
 ---
-title: "Cellular Responses to Photothermal Therapy: Heat-Induced ERK Signaling and Intercellular Communication in Solid Tumors"
+title: "Localized heat induces ERK activation and signal propagation in solid tumors"
 collection: publications
-date: 2025-02-27
-venue:
-authors: Farsai Taemaitree, Yuta Takano, Daisuke Yamaguchi, Kazushi Yamaguchi, Yudai Yamashita, Motosuke Tsutsumi, Chentao Wen, Kohei Otomo, Kenji Hirai, James Andell Hutchison, Indra Van Zundert, Sandra Krzyzowska, Maria Bravo, Sayuki Hirano, Koutarou D Kimura, Kazuhiro Aoki, Susana Rocha, Tomomi Nemoto, Beatrice Fortuni, Hiroshi Uji-i
-paperurl:
+date: 2026-04-30
+venue: Scientific Reports
+authors: Farsai Taemaitree, Yuta Takano, Daisuke Yamaguchi, Kazushi Yamaguchi, Yudai Yamashita, Motosuke Tsutsumi, Chentao Wen, Kohei Otomo, Kenji Hirai, James Hutchison, Indra Van Zundert, Sandra Krzyzowska, Maria Bravo, Sayuki Hirano, Koutarou D Kimura, Kazuhiro Aoki, Susana Rocha, Tomomi Nemoto, Beatrice Fortuni, Hiroshi Uji-i
+paperurl: https://www.nature.com/articles/s41598-026-49009-w
 repo: 'bioRxiv'
 repourl: https://www.biorxiv.org/content/10.1101/2025.02.27.640541v1.abstract
 rgate:

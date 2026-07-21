@@ -3,7 +3,7 @@ title: "Maria Bravo"
 collection: team
 header:
   teaser: Maria.jpg
-tags: phd
+tags: Alumni
 subject: " Advanced cell models and multifunctional nanomaterials for light-mediated cancer therapies"
 prom: Global PhD Partnership (Melbourne University)
 tagline: Global PhD Partnerships <br> promotor

@@ -3,7 +3,7 @@ title: "Samantha Zaman"
 collection: team
 header:
   teaser: samantha.png
-tags: phd
+tags: Alumni
 tagline: Global PhD Partnerships <br> promotor
 date: 2022-03-01
 subject: "Advanced cell models and multifunctional nanomaterials for light-mediated cancer therapies"

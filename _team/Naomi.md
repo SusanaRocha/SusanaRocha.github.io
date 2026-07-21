@@ -4,9 +4,10 @@ collection: team
 header:
   teaser: Naomi.jpg
 tags: phd
-tagline: Promotor
+tagline: promotor
 date: 2025-09-01
 subject: "Nano-Enhanced Hydrogels for Probing Cellular Mechanotransduction"
+prom: Global PhD Partnership (Melbourne University)
 email: naomi.duggan@student.kuleuven.be
 sidebar:
   nav: "Team"

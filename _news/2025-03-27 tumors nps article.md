@@ -5,8 +5,8 @@ collection: news
 header:
   teaser:
 ---
-What if tweaking nanoparticles isn’t enough to improve nanomedicine? 🧐
+What if tweaking nanoparticles isn’t enough to improve nanomedicine? 🧐 <br>
 In our latest work, we show that tumor biology – not just particle design – affects how nanoparticles behave.
-Same particles. Different tumors. Totally different outcomes. 🤯
+Same particles. Different tumors. Totally different outcomes. 🤯 <br>
 Big shoutout to **Maria Bravo, Guillermo Solís, Beatrice Fortuni** and all co-authors for pushing this forward!
 🔎 Curious? Check it out <a href="https://www.biorxiv.org/content/10.1101/2025.03.26.645442v1"><u>here</u></a>.

@@ -1,10 +1,10 @@
 ---
-title: "Beyond One-Size-Fits-All: Tumor Biology Influences Nanoparticle Behaviour in Cancer Models"
+title: "Beyond one-size-fits-all: cancer biology shapes nanoparticle behavior"
 collection: publications
-date: 2025-03-27
-venue:
+date: 2026-04-21
+venue: Journal of Nanobiotechnology
 authors: Maria Bravo, Guillermo Solís-Fernandez, Sandra Krzyzowska, Steven Huysecom, Ana Montero-Calle, Indra Van Zundert, Boris Louis, Rodrigo Barderas, Betrice Fortuni, Susana Rocha
-paperurl:
+paperurl: https://link.springer.com/article/10.1186/s12951-026-04395-1
 repo: 'bioRxiv'
 repourl: https://www.biorxiv.org/content/10.1101/2025.03.26.645442v1.abstract
 rgate:

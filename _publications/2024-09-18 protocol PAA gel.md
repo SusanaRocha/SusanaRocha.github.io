@@ -1,10 +1,10 @@
 ---
-title: Synthesis and mechanical characterization of polyacrylamide (PAAm) hydrogels with different stiffnesses for large-batch cell culture applications
+title: Protocol for synthesis and mechanical characterization of polyacrylamide hydrogels of varying stiffness for cell culture applications
 collection: publications
-date: 2024-09-18
-venue:
-authors: Behrad Shaghaghi, Lotte Gerrits, Ana Montero-Calle, Rodrigo Barderas, Paul Kouwer, Susana Rocha
-paperurl:
+date: 2026-06-19
+venue: 'STAR protocols'
+authors: Charlotte Cresens, Samet Aytekin, Behrad Shaghaghi, Lotte Gerrits, Ana Montero-Calle, Rodrigo Barderas, Paul Kouwer, Susana Rocha
+paperurl: https://www.cell.com/star-protocols/fulltext/S2666-1667(26)00259-5
 repo: 'bioRxiv'
 repourl: https://www.biorxiv.org/content/10.1101/2024.09.17.613503v1
 rgate:

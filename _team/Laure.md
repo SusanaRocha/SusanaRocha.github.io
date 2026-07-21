@@ -1,13 +1,13 @@
 ---
-title: "Lotte Simons"
+title: "Laure Leijssen"
 collection: team
 header:
   teaser: person.png
 tags: master
 tagline: Promotor
-date: 2025-09-11
+date: 2026-09-11
 subject: "Investigating the Role of MITF in Melanoma Cell Invasion and 3D Tumor Microenvironment Interactions"
-email: lotte.simons@student.kuleuven.be
+email: laure.leijssen@student.kuleuven.be
 sidebar:
   nav: "Team"
 author_profile: false

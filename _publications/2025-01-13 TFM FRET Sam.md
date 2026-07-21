@@ -1,10 +1,10 @@
 ---
 title: "Linking Molecular Tension and Cellular Tractions: A Multiscale Approach to Focal Adhesion Mechanics"
 collection: publications
-date: 2025-01-13
-venue:
+date: 2026-01-12
+venue: Communications Biology
 authors: Samet Aytekin, Laurens Kimps, Quinten Coucke, Débora Linhares, Swaraj Deodhar, Ruth Cardinaels, Mar Cóndor, Jorge Barrasa-Fano, Hans Van Oosterwyck, Susana Rocha
-paperurl:
+paperurl: https://www.nature.com/articles/s42003-026-09514-0
 repo: 'bioRxiv'
 repourl: https://www.biorxiv.org/content/10.1101/2025.01.09.632081v1.abstract
 rgate:
