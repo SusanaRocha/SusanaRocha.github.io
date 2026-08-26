@@ -19,3 +19,10 @@ In the tumor tissue, cancer-associated fibroblasts (CAFs) accumulate closer to c
 While the effect of CAFs on the TME is well studied, less is known concerning the propagation of mechanical signals through the matrix, from the CAFs to cancer cells, and their effects on cell behavior.
 In this project, we will employ the unique, fully biomimetic polyisocyanide (PIC) hydrogel, with fibrous structure and strain-stiffening behavior, to establish a co-culture model for fibroblasts and colon cancer cell spheroids[4]. The influence of fibroblast activation on cancer cell behavior will be systematically investigated. The result will have a high impact on understanding how cancer process and enhance the current treatment methods by providing more diverse targets for cancer therapies.
 Last but not least, the student will work in a multicultural and multidisciplinary environment, and gain expertise in 3D cell culture, mechanobiology, advanced fluorescence microscopy and biomaterials (functionalization and characterization).
+
+<h2> Publications </h2>
+{% for post in site.publications reversed %}
+  {% if post.authors contains 'Nina Anseeuw' %}
+    {% include archive-single-pub.html %}
+  {% endif %}
+{% endfor %}

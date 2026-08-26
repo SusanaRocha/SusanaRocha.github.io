@@ -18,7 +18,7 @@ In this project, we will investigate the unexplored phenomenon of optical bindin
 
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
-  {% if post.authors contains 'Haoxiang Zhang' %}
+  {% if post.authors contains 'Jagannath Satpathy' %}
     {% include archive-single-pub.html %}
   {% endif %}
 {% endfor %}

@@ -132,7 +132,7 @@ Lotte finished her master thesis on <i>'Phenotypic Profiling of Melanoma Cell Li
 <b>Tuana Karaarslan</b>, <i> Master student </i><br>
 Tuana finished her master thesis on <i>'Advancing Nanomaterial-Mediated Photodynamic Therapy for Cancer Treatment'</i> in June 2026 (promotor). <br><br>
 <b> 🎓 Dr. Maria Bravo</b>, <i> PhD student </i><br>
-Maria finished her PhD entitled <i> 'Improving Clinical Translatability of Nano-based Cancer Therapies' </i> in October 2025 (promotor, <a href="{{site.github.url}}/team/MariaBravo"><span style="color:gray">link to archived page</span></a>).After a short post-doctoral stay with us, Maria has returned to Protugal.<br><br>
+Maria finished her PhD entitled <i> 'Improving Clinical Translatability of Nano-based Cancer Therapies' </i> in October 2025 (promotor, <a href="{{site.github.url}}/team/MariaBravo"><span style="color:gray">link to archived page</span></a>).After a short post-doctoral stay with us, Maria has returned to Portugal.<br><br>
 <b> 🎓 Dr. Ana Cunha</b>, <i> PhD student </i><br>
 Ana finished her PhD entitled <i> 'Unravelling the contribution of the Micro-environment in Chronic Lung Diseases' </i> in March 2025 (co-promotor, <a href="{{site.github.url}}/team/AnaCunha"><span style="color:gray">link to archived page</span></a>).<br><br>
 <b>Hendrik Cuylaerts</b>, <i> Master student </i><br>

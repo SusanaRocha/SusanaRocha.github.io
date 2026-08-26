@@ -18,7 +18,10 @@ Additionally, we will study the role of the mechanical environment around CRC tu
 
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
-  {% if post.authors contains 'Solis' %}
+  {% if post.authors contains 'Solis'%}
+    {% include archive-single-pub.html %}
+  {% endif %}
+  {% if post.authors contains 'Solís' %}
     {% include archive-single-pub.html %}
   {% endif %}
 {% endfor %}

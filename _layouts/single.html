@@ -39,6 +39,7 @@ layout: default
           <i>{{ page.authors }}</i>
         {% endif %}
 
+
         {% if page.collection == 'team' %}
           {% if page.title == 'Susana Rocha' %}
 
@@ -47,9 +48,8 @@ layout: default
           <div class='pull-right' style='width: 25%; height: 210px; padding: 5px; object-fit: contain;'>
            <img src='{{ page.header.teaser | prepend: "/images/" | prepend: base_path }}' style='object-fit: scale-down; max-height: 200px; margin-left: auto; margin-right: 1px;' >
           </div>
-
             <p>
-              <i> Assistant Professor </i>
+              <i> Associate Professor </i>
 
               {% if page.email %}
               <br><a href="mailto:{{ page.email }}" style="color:gray; text-decoration: none">email {{ page.title }}</a>
@@ -57,9 +57,6 @@ layout: default
               <br>
               <a href="http://susanarocha.github.io/files/cv_July2025.pdf">CV July 2025</a><br>
               <h3>Biosketch</h3>
-
-
-            </p>
 
           {% else %}
 
@@ -123,6 +120,8 @@ layout: default
 
         </header>
       {% endunless %}
+
+
 
       <section class="page__content" itemprop="text">
         {{ content }}

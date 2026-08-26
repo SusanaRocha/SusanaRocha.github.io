@@ -18,7 +18,7 @@ In the 21st century, cancer is expected to grow into the leading cause of death 
 
 <h2> Publications </h2>
 {% for post in site.publications reversed %}
-  {% if post.authors contains 'Haoxiang Zhang' %}
+  {% if post.authors contains 'Sandra Krzyzowska' %}
     {% include archive-single-pub.html %}
   {% endif %}
 {% endfor %}

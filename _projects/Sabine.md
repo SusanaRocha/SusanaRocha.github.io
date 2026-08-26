@@ -1,14 +1,15 @@
 ---
-title: "Prof. Roger Bresolí Obach"
+title: "Prof. Dr. Sabine Tejpar"
 collection: projects
 tags: collaboration
-tagline: Universitat Ramon Llull Barcelona, Spain
-subject: Optical matter
+tagline: Department of Oncology, UZ Leuven
+subject: Cellular mechanics in colorectal cancer
 sidebar:
   nav: "Projs"
-date: 1951-01-01
+date: 1941-01-01
 header:
-  teaser: obach.jpg
+  teaser: sabine.jpg
+
 ---
 <hr-bold>
 <br>
